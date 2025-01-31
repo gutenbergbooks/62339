@@ -1,0 +1,2989 @@
+﻿The Project Gutenberg EBook of Da un carteggio inedito, by Giosuè Carducci
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+
+Title: Da un carteggio inedito
+
+Author: Giosuè Carducci
+
+Editor: Antonio Messeri
+
+Release Date: June 8, 2020 [EBook #62339]
+
+Language: Italian
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DA UN CARTEGGIO INEDITO ***
+
+
+
+
+Produced by Carlo Traverso, Barbara Magni and the
+Distributed Proofreading team at DP-test Italia,
+http://dp-test.dm.unipi.it (This file was produced from
+images generously made available by The Internet Archive)
+
+
+
+
+
+
+DA UN CARTEGGIO INEDITO DI GIOSUÈ CARDUCCI
+
+
+   [Illustrazione: ULTIMA FOTOGRAFIA DEL POETA A LIZZANO ESEGUITA
+   IL 24 DI OTTOBRE DEL 1906 DALLA CONTESSINA MARIANNA ZANELLI
+   QUARANTINI.]
+
+
+                        Da un carteggio inedito
+
+                                   DI
+
+                            Giosue Carducci
+
+
+                             CON PREFAZIONE
+                                   DI
+                           _ANTONIO MESSERI_
+
+                                Tutto che io dico e scrivo in privato
+                                non ha nè paura nè vergogna mai del
+                                sole.
+
+                                             CARDUCCI, XII, p. 404.
+
+
+
+           DITTA ZANICHELLI                  LICINIO CAPPELLI
+               BOLOGNA                       ROCCA S. CASCIANO
+                              _COEDITORI_
+
+
+
+
+    _Proprietà artistica e letteraria della Casa editrice L.
+    CAPPELLI, Rocca s. Casciano, la quale, avendo adempiuto alle
+    formalità che la legge prescrive, provvederà, non solo contro le
+    contraffazioni, ma anche contro le imitazioni. Legge 19 settembre
+    1882, N. 1012. Tutti i diritti di traduzione e di riproduzione,
+    anche parziale, sono riservati._
+
+           _Le copie non firmate si ritengono contraffatte._
+
+     Rocca s. Casciano, 1907. — Stabilimento tipografico Cappelli.
+
+
+
+
+                          A VALFREDO CARDUCCI
+
+
+
+
+PREFAZIONE
+
+GIOSUE CARDUCCI E LA ROMAGNA
+
+
+Tra le moltissime lettere che Giosue Carducci scrisse alla signora
+contessa Silvia Baroni Semitecolo Pasolini, parve opportuno scegliere
+oggi le diciotto che vedono la luce, non pure perchè esse lumeggiano
+l'anima del Poeta e gli ultimi anni della vita di Lui, sì anche perchè
+ve n'ha alcuna la quale rende solenne giustizia a chi la ricevette, e
+vuol riaffermato, in conspetto de' contemporanei e de' posteri, l'alto
+pensiero di libertà e d'idealità insieme, onde il Carducci rifulse e
+rifulgerà nei secoli. Questa pubblicazione, adunque, è un affettuoso
+e puro omaggio alla memoria sacra del Poeta e dell'Amico, ed in parte
+anche un doveroso adempimento della sua volontà.
+
+Un'inesatta, se non del tutto erronea, credenza si diffuse tra 'l
+pubblico dopo che il Carducci fu colpito dal malore che lentamente
+lo condusse al sepolcro, ed in ispecie dopo che ebbe lasciato
+l'insegnamento; e ciò è che ben presto Egli fosse divenuto, come in
+quella del corpo, così nella vita dello spirito, l'ombra di sè stesso.
+
+Eppure la sua mente, se anche andò a poco a poco facendosi più lenta
+a rendere i concetti e a dar forma adeguata alle immagini, si mantenne
+lucidissima e viva fino all'ultimo: e queste lettere, che giungono alla
+vigilia della sua morte, meravigliosamente lo attestano.
+
+«Questa maledizione di dover dettare, o non poter scrivere se non
+lentamente col lapis, mi dispera e toglie energia alle mie lettere» —
+scriveva Egli al Chiarini il 24 decembre del 1901; ma bisogna dire che,
+non ostante l'imperfetto corrisponder degli organi di trasmissione,
+per mezzo della parola scritta o parlata, alla vita del pensiero, Egli
+avesse ancora un'immensa forza ed una grande efficacia a vincer gli
+ostacoli crudeli della natura.
+
+Mentre, avvicinandosi il verno della sua vita e dopo la folgore che gli
+diè il colpo fatale, la musa del Poeta tace o rimprovera a sè stessa i
+tumulti dello spirito che impedirono a Lui di godere il mondo e le sue
+gioie, il fiore della poesia gli sboccia ancora quasi inconsciamente
+fra le dita, quand'Egli scrive all'amica buona e soave; e i messaggi
+e le notizie e i sospiri di dolore e di rimpianto ch'Ei le manda, sono
+altrettante piccole squisite opere d'arte, nelle quali non sai se più
+ammirare la delicata fragranza del sentimento, o la ancor ricca vena
+dell'inspirazione, o lo stile sempre incisivo e gagliardo. L'anima
+di Lui si versa intera, in una quasi tenerezza di accoramento, entro
+queste lettere, le quali discuoprono il lato men noto, forse, del
+suo cuore, che fu di leone e di fanciullo insieme. Il ribelle, che
+da bambino avea combattuto a sassate le battaglie con i coetanei,
+immaginando rivoluzioni e repubbliche; che nelle prime lotte della sua
+vita letteraria aveva armeggiato insieme co 'l Chiarini, co 'l Gargani,
+co 'l Targioni, contro i romantici ed i filologi vocabolaristi,
+scagliando in faccia a loro le scapigliate insolenze della _Giunta alla
+derrata_; che, fatto maturo, aveva colpiti malvagi e pusilli, papi
+e tiranni, con la sferza de' terribili giambi ed epodi; quel ribelle
+ebbe poi non di rado, passati gli scoppi irrefrenabili dell'ira, un
+senso d'equanimità, di giustizia serena, di benigno rispetto per la
+sincera fede altrui, che dal fondo dell'anima buona saliva a calmarne
+la superficie tempestosa e sconvolta. Dicono che gli epistolari degli
+uomini grandi nuocciano talora, più che giovare, alla lor fama; ma
+non questo è il caso. Dappoichè mai la semplicità e la modestia,
+sotto il velo d'una natural ritrosìa, ebbero nell'intimità forme ed
+espressioni più schiette e più vere; mai, come in Lui, la grandezza
+parve nascondersi, e la fierezza ceder benigna alla bontà profonda e
+indulgente del cuore; mai, infine, lo sdegno delle basse cose e delle
+mentite apparenze ebbe un grido più ribelle, nè voce più soave ebbe la
+pietà degli errori che non guastano l'anima.
+
+È da aggiungere che queste lettere risvegliano molte e care e preziose
+memorie su 'l Carducci in Romagna, e su le consuetudini ed amicizie
+che qui ebbe forti e radicate, sopra tutto con la famiglia dei conti
+Pasolini-Zanelli: periodo, questo, non breve e molto importante della
+vita di Lui, che, siccome un meraviglioso tramonto, va còlto e meditato
+ed inteso nelle mille sfumature dei suoi colori.
+
+Eppure articolisti e biografi (compreso il più autorevole, ciò è
+Giuseppe Chiarini) ne tacquero, o quasi; onde non parrà inutile nè
+sarà discaro ai lettori che l'affetto e la devozione mia per il Poeta,
+rafforzati specialmente negli ultimi anni, mi spingano a far un po'
+più nota questa parte di vita del Carducci, rimasta quasi oscura: ciò
+che io considero, non pure onore altissimo, ma compimento di un dolce
+dovere.
+
+                                   *
+                                  * *
+
+I primi ricordi del Carducci in Romagna si ricollegano, credo, al
+nome di Giuseppe Torquato Gargani, il _fiorentino puro_ che «morì
+d'amore e d'idealismo in Faenza il 29 marzo 1862». Di lui lasciò
+il Carducci stesso imperitura memoria, ritraendolo al vivo nelle
+_Risorse di s. Miniato_ (_Prose_, pp. 949-50): «.... pareva una figura
+etrusca scappata via da un'urna di Volterra o di Chiusi, con tutta
+la persona ad angoli, ma senza pancia, e con due occhi di fuoco: io
+lo avevo conosciuto a scuola di retorica, ridondante ed esondante
+di guerrazziana fierezza. Poi, andato per raccomandazione di Pietro
+Thouar in Romagna, e proprio in Faenza maestro nella famiglia di certi
+signori (dal '53 al '56 fu appunto il Gargani precettore, a Faenza,
+del conte Pierino Laderchi), vi si era convertito a un classicismo
+rigidamente strocchiano.... Ma un classico, come s'intendeva allora,
+doveva essere anche moderato, molto moderato, in politica; e in
+questa il Gargani aveva serbato le memorie e le tradizioni del '49:
+era un romantico-guerrazziano-mazziniano arrabbiato, intransigente,
+antropofago».
+
+Nel '56, tornato a Firenze, il Gargani aveva, con enorme scandalo
+della letteratura ufficiale, impersonantesi nel dittatore Fanfani,
+scritta quella _dicerìa su i poeti odiernissimi_ che fu pubblicata a
+spese degli _amici pedanti_, ossia del medesimo Gargani, del Carducci,
+del Chiarini e di Ottaviano Targioni. Del gran putiferio che ne
+nacque, e delle polemiche tra gli _amici pedanti_ e il giornale «_Il
+Passatempo_», organo magno fanfaniano, narra a bastanza il Chiarini
+nelle sue _Memorie della vita di Giosue Carducci_ (Firenze, Barbèra,
+1907, cap. III); delle visite del Gargani, del Chiarini, del Nencioni
+al Carducci, a Pietro Luperini, a Ferdinando Cristiani, allora umili
+maestri nel Ginnasio di s. Miniato; delle liete baraonde rallegrate
+dalle scariche di tappi saltanti; delle passeggiate notturne _tacitae
+per amica silentia lunae_, a s. Miniato ed a Firenze; ricordi il
+lettore la descrizione evidentissima che è nelle _Risorse di s.
+Miniato_. Qui basti aggiungere che il Gargani fu di nuovo dal '56 al
+'58 precettore in una casa privata, ma questa volta a Montegemoli,
+presso a Volterra; che nel '59 si arruolò volontario, e istigato da
+molti che poi lo rinnegarono, domandò al governo toscano la facoltà del
+voto politico per le milizie, ritraendone trenta giorni di prigionia;
+che, infine, nel novembre 1860 fu eletto maestro di lingua latina
+nel Ginnasio di Faenza, e poi dal ministro della pubblica istruzione
+nominato professore di lettere latine e greche nel Liceo della stessa
+città, il 13 marzo 1861. Nel quale anno ei pubblicava per le stampe
+di Pietro Conti in Faenza, in edizione di soli cento esemplari, un
+libretto di versi (dieci sonetti, un idillio, due canzoni), oggi
+divenuto rarissimo, e dedicato «ai dilettissimi fra gli amici prof.
+Giosue Carducci, Giuseppe Chiarini, don Luigi Bolognini». Quest'ultimo
+era direttore del Ginnasio; e nella casetta di lui abitava il Gargani,
+dirimpetto alla chiesa ed alla piazza di s. Agostino.
+
+Il Carducci, che intanto avea salita la cattedra di eloquenza
+nell'Università di Bologna, si compiaceva di far non di rado qualche
+scappata a Faenza, a trovarvi il suo Gargani; e prendeva parte talvolta
+ai lieti conversari che la sera facevansi nella tipografia Conti, dove
+convenivano i letterati faentini del tempo: il cav. Giovanni Ghinassi,
+di bel nome come di erudito e di elegante scrittore; don Marcello
+Valgimigli, bibliotecario comunale e benemerito quanto minuzioso
+ricercatore ed ordinatore di patrie memorie; il dott. Saverio Regoli
+ed il prof. Giuseppe Morini, insegnanti nel Ginnasio, dotti e valorosi
+entrambi; don Sante Bentini, traduttore de' bucolici greci; il canonico
+Filippo Lanzoni, professore di retorica, anch'egli nel Ginnasio, che
+il Carducci ammirava per la sua facoltà di comporre terzine d'un cotal
+sapore dantesco.
+
+In quelle riunioni, alle dispute di filologia e d'arte s'intramezzavano
+racconti festevoli, e versi, e scherzi, e cenette rallegrate dalle
+mille bizzarrie e dalla mimica arguta del Gargani, originalissimo.
+
+Ahimè! L'allegria durò poco. Abbandonato dalla fidanzata, che aveva a
+Firenze (e invano il Carducci vi corse a chieder ragione per lui), il
+povero Gargani se ne accorò siffattamente, che nel suo corpo debole ed
+infermiccio ebbe prepotere ben presto il così detto _mal sottile_, o
+sia la tisi, che da un pezzo lo minacciava. Il 19 febbraio del 1862 una
+lettera da Faenza annunciava al Carducci la grave malattia dell'amico;
+ed egli corse al letto del Gargani, e per quasi due settimane venne ed
+andò, da Bologna a Faenza e viceversa, con l'animo sollevato volta a
+volta o straziato dagli alti e bassi del terribile male. Aveva allora
+il Carducci, nelle linee marcate dello scuro volto, nell'acuta mobilità
+degli occhi neri, nel gesto e nel portamento, tra spavaldo e spaurito,
+della persona, un qualche cosa di veramente singolare; e mi narra
+l'egregio e caro collega mio cav. prof. Giuseppe Morini, il quale ebbe
+l'onore d'essergli amico e d'accompagnarlo a que' giorni più volte
+dalla casa del Gargani alla stazione, che talora la gente si fermava a
+guardare quell'omino non troppo elegantemente vestito, e dalla grande
+zazzera e dalla barbetta nera arruffata. E qualcuno si spinse perfino
+a dimandar poi al Morini chi mai fosse quel curioso _ebreetto_ che era
+con lui.
+
+Il Gargani morì a ventott'anni, il 29 marzo del '62; e come tal perdita
+amareggiasse il Poeta, lo dimostra un pietoso ricordo ch'Egli scrisse
+dell'estinto, e pubblicò il 29 aprile, nel trigesimo della scomparsa
+di lui, nel giornale fiorentino «_Le veglie letterarie_» (trovasi oggi
+nella prima serie delle _Ceneri e Faville_); lo dimostrano i versi
+della lirica intitolata _Congedo_, pieni di ammirazione e di rimpianto:
+
+    «O ad ogni bene accesa
+    anima schiva, e tu lenta languisti
+    da l'acre ver consunta, e non ferita;
+    tua gentilezza intesa
+    al reo mondo non fu, chè la vestisti
+    di sorriso e disdegno; e sei partita»;
+
+lo dimostrano, infine, le commoventi parole onde, nelle _Risorse di s.
+Miniato_, Egli conchiude, con un singhiozzo, la gioconda rievocazione
+de' giorni felici:
+
+«Domani è il giorno de' morti. O amico che giaci muto e freddo nella
+fossa di Romagna, a te certo non spiace ch'io rinnovelli ancora per un
+poco la memoria delle nostre belle estati fiorentine!»
+
+                                   *
+                                  * *
+
+Da quello mesto e gentile del dolore nacque e germogliò nel gran cuore
+del giovine Poeta il fior dell'amore; ed Egli amò d'allora in poi la
+Romagna, oltre che per le virtù e le magnanime energie che ebbe campo
+di scuoprirvi e ammirarvi, anche perchè prima di tutto, come in questa
+terra sapeva racchiuse le ossa dell'amico, così nell'anima romagnola
+Egli sentiva ben consegnato il tesoro delle care memorie e dei
+dolcissimi affetti.
+
+Con gli amici di Faenza mantenne rapporti cordialissimi; ed accettò,
+anzi, di far parte, qual socio onorario, di quella _Società scientifica
+e letteraria_ che fu fondata a Faenza il 27 di settembre 1862,
+essendone promotori Giuliano Bucci, l'ing. Luigi Biffi, il dott.
+Vittorio Tartagni, il dott. Saverio Regoli ed Antonio Mazzoni, e
+della quale fu poi da voti unanimi chiamato all'ufficio di presidente
+il botanico illustre Ludovico Caldesi, disdegnosa e fiera anima
+di romagnolo. Il 28 di maggio 1865 cotesta società scientifica e
+letteraria tenne una solenne accademia pe 'l centenario dantesco,
+nella sala del consiglio comunale, alla quale fu presente anche il
+socio Carducci; e negli _Atti dell'anno accademico 1864-65_, pubblicati
+in Faenza co' tipi di Angelo Marabini nel '67, si legge come il cav.
+Ghinassi, in allora presidente, disse «alcune brevi ma eleganti parole
+di proemio»; e Filippo Lanzoni tenne un discorso «inteso a dimostrare
+come universale fosse il fine della Divina Comedia»; e Giuseppe Morini
+trattò «della bellezza meravigliosa dello stile, perchè l'Alighieri
+entra innanzi a tutti gli altri poeti»; e Saverio Regoli, ragguagliando
+Dante ad Omero ed a Virgilio, «il volle addimostrare a loro superiore,
+sì pel fine, sì pel subbietto, sì per la poesia altissima»; e Luigi
+Brussi «tolse a far aperto come Dante avversasse il dominio temporale
+de' romani pontefici. Furono lette eziandio — continuano quegli
+Atti — robuste ed eleganti poesie di soci onorarî, che si piacquero
+tener l'invito lor fatto dalla società a prendere parte alla festa
+dantesca: e ciò è tre sonetti del cav. Carducci, un carme della signora
+Teodolinda Franceschi Pignocchi, e un epigramma latino del cav. Luigi
+Grisostomo Ferrucci, che insieme ai componimenti in prosa furono poscia
+fatti di pubblica ragione (coi tipi del Marabini) e offerti alla
+città di Ravenna, nell'occasione che festeggiava essa pure l'antico
+ed immortale suo ospite». I tre sonetti del Carducci sono quelli
+intitolati «_Nel sesto centenario di Dante_», che si trovano, nella
+raccolta delle _Poesie_ (Zanichelli, 1902, seconda edizione), a pagine
+359-361.
+
+Qual miranda visione poetica sia in que' sonetti, ne' quali Dante,
+risorto _da l'avello iscoverchiato_, rampogna fieramente l'Italia,
+e la stimola a compiere la sua unità, affinchè, «_Roma libera sia da
+l'adultèro_», il lettore ricorda bene; quanto cotesti versi gagliardi
+ed accesi entusiasmassero gli ascoltatori in terra di Romagna,
+e proprio in quell'anno che la capitale era stata trasferita da
+Torino a Firenze (il che era parso una tacita rinunzia a Roma), il
+lettore s'immagini. Già il Carducci avea raffreddato di molto la sua
+inclinazione per la monarchia fin da quando, dopo il '60, a Lui, che
+avea in cima de' suoi pensieri il compimento dell'unità nazionale, la
+monarchia parve impari agli alti destini della patria, e dirimpetto
+alle impazienze dei generosi sembrò peccare di forse eccessiva
+prudenza. Trovatosi, adunque, naturalmente d'accordo con i così detti
+partiti avanzati, il Poeta cominciava ad esser molto ammirato in
+Bologna dalla gioventù romagnola, che vi affluiva per ragione di studî
+o d'altro, ed era tutta, o quasi, repubblicana.
+
+Quando, poi, nel '68 il Carducci pubblicò il volume dei _Levia Gravia_,
+e nel '71, per le stampe del Barbèra, tutte le poesie da Lui fin'allora
+composte, non esclusi l'_Inno a Satana_ e i due epodi per _Monti e
+Tognetti_ e pe 'l _Corazzini_, «i più non si curarono de' suoi versi —
+scrive il Chiarini, p. 364 — che furono esaltati dai meno, dai radicali
+e dai repubblicani, specialmente di Romagna».
+
+Così stringevansi sempre più i legami di sentimento e di pensiero tra
+il forte poeta e la forte terra; della quale già avea incominciato (e
+proseguì, può dirsi, per quasi tutta la vita) a studiare e ad ammirare
+profondamente le tradizioni e la storia gloriosa.
+
+Qual segretario geniale dapprima, qual presidente degnissimo ed
+autorevole poi, della Deputazione su gli studi di storia patria per
+le Romagne, Egli seguì ed illuminò con l'alto intelletto, per lunghi
+anni, l'arduo lavoro di conservazione de' monumenti, e d'indagine
+riordinamento critica delle fonti èdite ed inedite; e nelle sue
+evidenti relazioni su le cose operate dalla Deputazione medesima,
+sono rievocati, con parola vivificatrice dell'erudizione per sè
+stessa arida, gli spiriti e le forme del passato; storia politica e
+civile, e della milizia, e dell'arte, e della letteratura; epigrafia,
+genealogia, biografia; scavi, inscrizioni, archivi, marmi, tombe,
+chiese, ruderi delle rocche, torri, palagi; tutte, insomma, le reliquie
+della veneranda antichità passano dinanzi alla mente del lettore, e
+con esse i più belli e cari nomi degli studiosi di Bologna e della
+Romagna: Francesco Rocchi, l'archeologo savignanese del quale il
+Carducci fu amicissimo, e pianse «con vere lagrime la buona e cara
+immagine paterna», ed affermò che «di storia romana sapeva quanto pochi
+in Italia»; Giovanni Gozzadini, «lodato espositore e commentatore
+di memorie etrusche»; Gian Marcello Valgimigli, il quale «fece
+meravigliare su la fecondità artistica della ingegnosissima Faenza»;
+il canonico Antonio Tarlazzi, continuatore de' _Monumenti ravennati_
+del Fantuzzi; Cesare Albicini, «degno di rappresentare nell'ingegno e
+l'animo i migliori tempi di Romagna»; e Luigi Tonini, illustre storico
+di Rimini, e Michelangelo Gualandi, e Giovanni Casali, e Luigi ed
+Enrico Frati, e Luigi Balduzzi, e Carlo Malagola, e Nerio Malvezzi, e
+Corrado Ricci.
+
+   [Illustrazione: La chiesa di Polenta dopo i primi restauri.]
+
+   [Illustrazione: La chiesa di Polenta dopo i secondi restauri.]
+
+Intanto, mentr'Egli approfondiva così lo sguardo e l'anima nelle remote
+fortunose vicende di questa regione, sentiva conforme alla propria
+l'indole degli abitatori di essa: gente semplice di costumi, un po'
+rude di modi, schietta d'animo, facile agli entusiasmi e agli sdegni,
+pronta all'azione; ed assisteva co 'l cuore fortemente commosso a'
+sacrifici, agli eroismi, alle glorie de' romagnoli nelle giornate del
+nostro riscatto, e di poi a tutte le sacrosante lotte civili ond'essi
+isfolgoravano siccome assertori pertinaci ed arditi d'ogni più alto
+ideale di libertà. Si legò adunque di calda amicizia con Aurelio
+Saffi, che della Romagna «fu il genio buono, la mente e la norma»;
+con Vincenzo Caldesi, che «cresciuto tra le insurrezioni contro il
+governo dei chierici, iniziò, propugnò, onorò sempre e da per tutto la
+rigenerazione, la libertà, il nome d'Italia»; con Antonio Nardozzi,
+il traduttore delle Georgiche, che «della vecchia scuola romagnola
+conserva le tradizioni buone, le quali congiunge e contempera alle
+novità buone»; con Gaspare Finali, da cui si compiacque poi esser
+detto «romagnolo di elezione e di amore, come Vincenzo Monti era stato
+per nascita»; e l'anima gli vibrava d'ammirazione intensa e sincera
+per Claudio Sabbatini, di Sogliano, che, morto a Monterotondo a
+ventott'anni, era già un cospiratore a diciotto; per Eugenio Valzania,
+il prode colonnello garibaldino, «esempio in guerra e in pace della
+costante virtù romagnola»; per Pierino Turchi, «dolcezza di angelo e
+bronzea tempra di carattere»; per Alfredo Baccarini, «onore di Romagna,
+ed esempio insigne dell'antica indole italiana in ciò che ha di più
+nobile, forza e carattere, semplicità e modestia».
+
+Avvenne per tal modo ch'Egli in breve tempo allargasse la cerchia
+delle sue consuetudini romagnole: ad Imola pubblicò, infatti, nel
+1873 l'edizione delle _Nuove Poesie_, per le stampe di Paolo Galeati,
+amicissimo suo; a Ravenna, nel giugno del 1872, lesse quelle che,
+ampliate e rifuse più tardi divennero le _Conversazioni e divagazioni
+heiniane_ (pubblicate poi nel volume X delle opere); a Lugo, nel 1876,
+dopo avere accettata la candidatura politica, «non foss'altro pe'l
+rischio della battaglia», fu eletto deputato, e il 19 di novembre,
+dopo avvenuta l'elezione, tenne il memorabile discorso _Per la poesia e
+per la libertà_, nel quale con vibrata eloquenza rivendicava al poeta
+l'altissimo ufficio di educatore civile; a Cesena trovò amicizie e
+conforti, de' quali assai meglio ci giova dire più innanzi; a Forlì
+ebbe, oltre che il Saffi, ammiratori ed amici e discepoli affettuosi e
+reverenti, tra i quali due sopra tutti piacemi ricordare: il compianto
+Giuseppe Mazzatinti, buona tempra di erudito e gentile anima d'artista;
+il marchese Alessandro Albicini, al quale il Carducci diè poi, in una
+lettera del 5 luglio 1898, insigne attestato di stima, e del quale fu
+spesso ospite caro e venerato negli ultimi anni di sua vita.
+
+Ma Faenza fu particolarmente cara al suo cuore. Dopo l'accademia
+dantesca del '65, Egli vi tornò il primo di novembre del 1869, insieme
+con Aurelio Saffi, ad accompagnarvi l'amico Ferdinando Cristiani che
+veniva a prender possesso della cattedra di storia nel regio Liceo;
+ed alla sera, in un banchetto che all'_albergo del Cannone_ (oggidì
+_Vittoria_) fu offerto a Lui, al Saffi ed al Cristiani, Egli improvvisò
+quasi, rapidamente scrivendola sur un foglietto di carta, e disse con
+impeto la lirica _Nostri santi e nostri morti_:
+
+    «Ai dì mesti d'autunno il prete canta
+    i morti in terra ed i suoi santi in ciel...».
+
+E la commozione si rinnovò, e le grida di ammirazione e gli applausi
+scoppiarono più clamorosi che mai, quando, dopo il simposio,
+raccoltisi, Lui e gli amici, al _Circolo popolare_, in via del Teatro
+(oggi via Pistocchi), Egli declamò intera l'ode _Dopo Aspromonte_.
+Pareva — mi narra un amico che ebbe la ventura di assistervi, il
+prof. Napoleone Alberghi — pareva un vulcano in eruzione: lo sguardo
+lampeggiante, la voce poderosa, il gesto largo e concitato davano quasi
+l'illusione che il Poeta improvvisasse; Ei non disse, ma sospirò, urlò,
+ruggì le terribili strofe; sì che alla fine, quand'ebbe lanciati, come
+squilli di tromba stimolante alla battaglia, gli ultimi versi
+
+    «Odio di Dei, Promèteo,
+    arridi ai figli tuoi,
+    solcàti ancor dal fulmine
+    pur l'avvenir siam noi»,
+
+i più degli ascoltatori, balzati in piedi, piangevano.
+
+Nove mesi e sette giorni dopo cotesta lieta e rumorosa riunione, ossia
+il 7 agosto del 1870, moriva in Firenze Vincenzo Caldesi; moriva, egli
+che nel '67 a Monterotondo avea preso parte all'«ultima guerra del
+popolo italiano contro i pontefici», senza il conforto di veder Roma
+liberata.
+
+    «Dormi, avvolto nel tuo mantel di gloria
+    dormi, Vincenzio mio;
+    de' subdoli e de' fiacchi oggi è l'istoria,
+    e dei forti l'oblio»,
+
+cantò mestamente Giosue Carducci; ma su _la sacra tomba_ del _leon
+di Romagna_ Ei non osava di gridare il nome dell'eterna città, a cui
+l'eroe garibaldino avea sacrato _il nerbo de la vita_, da poi che
+
+    «.... ancor la soma
+    ci grava del peccato;
+    impronta Italia domandava Roma,
+    Bisanzio essi le han dato!».
+
+E la memoria del povero Caldesi fu rinverdita affettuosamente più
+volte, quando il Carducci, essendo Severino Ferrari professore di
+lettere italiane nel regio Liceo di Faenza, e precisamente negli
+anni 1886-87 e 1887-88, a Faenza ritornò, o per inspezioni al Liceo,
+od anche soltanto per godersi un poco la compagnia del prediletto
+discepolo. Una volta, poi, in una comitiva d'amici raunatisi a
+cena all'_albergo della Corona_ (ed era presente il su detto prof.
+Alberghi), ad una lunga, animatissima discussione tra il Carducci e
+Severino, precedette la recitazione di non poche liriche e sonetti
+carducciani, che gli altri con accortezza incominciavano, e che il
+Poeta, ingenuamente abboccando all'amo, proseguiva e finiva, in uno
+slancio di commosso entusiasmo.
+
+Di tanti ricordi, di tanta compartecipazione d'affetti e di aspirazioni
+tra Lui e la Romagna, Egli lasciò testimonianza solenne ed ampia in
+pagine di bronzo. A Lugo, nel precitato discorso, pronunciò le seguenti
+parole, che tornano di onore grandissimo a cui furon rivolte:
+
+«Da che toccai queste terre, da che nelle fronti calme e pensose degli
+uomini scampati alle prigioni ed alle galere del papa, nel dolore
+rassegnato e glorioso delle vedove e degli orfani di quelli che caddero
+intorno alle mura di Roma, di quelli che morirono per la mannaia dei
+preti o per il piombo degli stranieri, ebbi ammirato la storia della
+guerra da voi guerreggiata continua contro la peggior tirannia che
+abbia mai contristato l'Italia; da che nella baldanza dei giovani, i
+quali si versarono come torme di leoni in tutte le patrie battaglie,
+io vidi splendere, con èmpito primitivo, tanto entusiasmo d'ogni alta
+cosa, tanta ardenza di vita nuova; da allora il mio cuore fu sempre
+con voi, o romagnoli..... Oltre che, nelle ricordanze della mia vita io
+ritrovo un vincolo tutto intimo che a voi mi congiunge, un sentimento
+che, non senza vanità forse, mi porta ad amare la Romagna come mia
+patria seconda, come patria elettiva. Tra voi la mia facoltà poetica
+si rafforzò e tentò un secondo e più largo volo. Quando sentii i
+cuori della gioventù romagnola battere con simpatia d'assentimento a'
+miei sensi; quando vidi ripercuotermisi raddoppiata la luce de' miei
+fantasmi, io ripresi fiducia, e dissi trepidando a me stesso: Anch'io
+son poeta».
+
+La quale ammirazione ed il quale amore per questa terra Egli a s.
+Marino, nel sublime discorso per l'inaugurazione del palagio della
+repubblica, dall'alto del Titano affacciandosi alla vista delle
+città famose, integrò, con una elevazione civile ed estetica insieme,
+nell'amore e nell'ammirazione della gran patria italiana. «Che se —
+Egli disse — Rimini co'l ponte d'Augusto, Ravenna con le urne dei figli
+di Teodosio ostentano le altezze e le miserie dell'impero di Roma, la
+nostra venerazione ricerca più commossa nella tomba di Dante l'altare
+della vita nuova d'Italia».
+
+                                   *
+                                  * *
+
+Difficile, a chi non ebbe consuetudine di affetto e di vita co 'l
+Carducci, immaginare il senso profondissimo ch'Egli avea della natura,
+e quanto Ei si rendesse conto del come la gran madre si pieghi a
+divenire intima, e dolce, e confortatrice agli uomini che la sanno
+intendere; difficile il farsi un'idea esatta del fascino singolare che
+per Lui ebbe, derivato fors'anche dalla grandezza delle memorie, questa
+regione romagnola che, in bello e variato alternarsi di pianure e di
+colli, si distende florida e lieta
+
+    «tra il Po e 'l monte, la marina e 'l Reno».
+
+In ciò, come in altre cose, il Vate della terza Italia si ricongiunge
+al _vicin suo grande_, all'Alighieri, che della Romagna, ultimo asilo
+suo, visitò i luoghi e le terre, e conobbe i castelli, le città, i
+fiumi, le potenti famiglie, e cantò
+
+    «le donne e i cavalier, gli affanni e gli agi».
+
+Chiamatovi, adunque, dalla fama delle naturali bellezze, da' ricordi
+di Dante e del Boccaccio, dal desiderio di veder la città de'
+Mainardi e di Guido del Duca, il cipresso di Francesca e la culla
+dei Polentani, Giosue Carducci visitò nella primavera del 1887, per
+la prima volta, Bertinoro, e il castello e la chiesa di s. Donato di
+Polenta. Quest'ultima era, a dir vero, in istato lagrimevole: «non che
+esservi — scrive Paolo Amaducci nel proemio al suo bellissimo commento
+dell'ode carducciana (Zanichelli, 1899, p. 9) — non che esservi segno
+alcuno di rispetto e di cura per quanto esisteva ancora di vetusto,
+tutto deperiva e minacciava ruina». Eppure il Poeta, dopo essersi
+condotto a' ruderi del castello «_dove l'aquila del vecchio Guido
+covava_», ed esser entrato, tutto compreso di reverenza, nel tempio
+ove la tradizione voleva avesser pregato Francesca e Dante, rimase
+colpito e pensoso della vaghezza de' luoghi e della testimonianza delle
+glorie, che nell'anima sua si fondevano in un solo sentimento; e del
+tempio con trasporto d'ammirazione esclamò: Cotesto è un vero ornamento
+delle colline romagnole! In un modesto banchetto, poi, che a Lui fu
+offerto sul monte Cappuccini, il cav. avv. Enrico Lorenzini, in allora
+sindaco di Bertinoro, con felice parola salutò il Carducci, dicendo
+che Bertinoro era lieta di non aver seguito il grido di Dante, e di
+non esser ancora _fuggita via_, perchè in tal modo avea potuto rendere
+omaggio al Poeta della nuova Italia. Al che sembra rispondesse il
+Carducci con una cara promessa: di studiare e meditare, ciò è, quel che
+aveva veduto ed ammirato. Partitosene, e incalzato da nuovi studî e da
+nuove cure, non vi pensò più per allora.
+
+Nell'inverno di quello stesso anno 1887 il Poeta, di passaggio a
+Faenza, fu desiderato a pranzo in casa dei Pasolini-Zanelli, e tenne
+subito volentieri l'invito. V'era stato chiamato dal conte Giuseppe,
+del quale si ricordava affettuosamente, per averlo esaminato nella
+prova d'ammissione all'Università di Bologna, e dalla contessa Marina
+Baroni Semitecolo, madre della contessa Silvia, ed ospite a que'
+giorni della figlia e del genero; la quale, signora d'intelletto e
+di aderenze cospicue, com'era stata ammiratrice ed amica di Aleardo
+Aleardi, così era legata di antica conoscenza anche con Giosue
+Carducci. In cotesta visita, in cui per la prima volta il Carducci
+conobbe la contessa Silvia, per tutta la sera ospiti ed invitati,
+seduti a tavola lietamente, parlarono d'arte e di letteratura, e sopra
+tutto (non ostante l'ombrosa ritrosìa del Poeta) della musicalità
+delle liriche carducciane. Così s'intrecciò, e si strinse ben presto,
+il nodo di quell'amicizia vera, forte, affettuosissima, che fu tra i
+Pasolini e il Carducci. Trasferitasi, poi, per qualche anno, dopo il
+1890, la residenza dei Pasolini a Bologna, spesso il Carducci fu da
+essi cordialmente ricevuto; ed intorno a Lui ed ai padroni di casa si
+raccoglievano non pochi degli amici e scolari suoi più cari, Ludovico
+Frati, Carlo Malagola, Severino Ferrari; una volta vi fu presente anche
+Cesare Pascarella, che recitò la sua _Serenata_ e i sonetti di _Villa
+Glori_, commovendo il Carducci. Il quale, per compiacere agli amici,
+disse poi, con la vivacità e la forza consuete, i sonetti del _Ça ira_.
+
+Talora, dal '94 al '96, la comitiva si ritrovò a pranzo al _caffè
+del Pavaglione_, presenti la contessa, il compianto Vittorio Rugarli
+(professore di lettere latine e greche, ed uno dei pochissimi
+conoscitori e cultori, in Italia, della lingua e letteratura persiana),
+il prof. Federzoni, e una giovinetta gentile e d'ingegno, anch'essa,
+come il povero Rugarli, troppo presto rapita dall'inesorabile falce
+della morte all'affetto ed alla estimazione dei buoni: Corinna
+Formiggini. Il padrone del caffè avea, in omaggio al Carducci, fatto
+dipingere a fresco, nel soffitto, un ritratto del Poeta; ed in omaggio
+a Vittorio Rugarli, da presso a cotesto ritratto, i simboli e le
+memorie del Firdusi: ed in quella saletta, che pur ne' suoi adornamenti
+esteriori accoglieva, adunque, espressioni d'affetto e di devozione,
+ebber luogo discussioni davvero memorabili di filosofia, letteratura,
+arte, storia, politica, nelle quali, pur tra i motti e le arguzie della
+eletta conversazione, sfolgoravano la parola vivacissima, e l'ardenza
+dell'anima, e la profondità del pensiero del Maestro.
+
+Da tali consuetudini derivò al Carducci l'occasione di ripensare alla
+chiesa di Polenta; nella quale qualche cosa di nuovo era avvenuto,
+dopo la visita carducciana dell' '87. Sul principio del sec. XVIII
+avean commessa la barbarie di rabberciarla malamente, chiudendo le due
+absidi laterali, mentre, da lungo tempo, era seppellita la cripta;
+ed a' nostri giorni, poi, un superiore ecclesiastico pensava niente
+meno che abbattere al suolo tutto l'edificio, per farne uno nuovo,
+ad una sola navata. Come il bravo arciprete della chiesa, don Luigi
+Zattini Brusaporci, invece, innamorato dell'antichità del picciol
+tempio, che risale al secolo VIII (ed è ricordato in un documento
+del 976), ricorresse allora alla protezione ed all'aiuto del cav.
+Santarelli, ispettore de' monumenti e scavi per la provincia di Forlì;
+come per gli sforzi di esso Santarelli, del prof. Raffaello Zampa,
+del conte Cilleni-Nepis (che, nel 1890, in elegantissimo opuscolo,
+edito dal Berdondini di Forlì ed illustrato di belle fotografie,
+studiò felicemente quanto s'attiene alla storia dell'arte rispetto
+alla chiesa) si riuscì a far eseguire i più urgenti restauri, che
+s'iniziarono co'l 19 maggio del 1890; infine come il 24 decembre
+del '92 la chiesa, dopo circa due anni da che non era più officiata,
+potè riaprirsi al pubblico nella sua nuova, meglio nella sua antica
+forma, in mezzo al popolo numeroso e festante; vegga il lettore nel
+citato proemio dell'Amaducci, a pp. 9-10. E su 'l provvedere alle
+spese occorrenti, nessuna parola più efficace di quella del Carducci
+medesimo, nella sua nota all'ode famosa (_Poesie_, pp. 1033-34):
+
+«Ricordo che nella seduta 20 decembre del consiglio provinciale (di
+Forlì), venuta in discussione la spesa per la chiesa polentana,
+opponendo alcuno non doversi gittare il danaro del pubblico per
+conservare chiese, quando il meglio sarebbe buttar giù quelle anche
+in piedi, Aurelio Saffi, il nobilissimo mazziniano, che presiedeva
+l'adunanza, parlò da quell'uomo culto e savio che era, e disse fra
+l'altro: Quale italiano non vorrà conservata e onorata una chiesa dove
+Dante pregò? Allora tutti quei repubblicani votarono la spesa per s.
+Donato di Polenta. Che fu dichiarato dal governo monumento nazionale;
+e cominciarono i lavori de' restauri; e vennero in aiuto alla spesa
+il Ministero dell'istruzione e quello dei culti; dei benefattori, come
+dicono, privati, ricordo la contessa Silvia Baroni Pasolini, il comm.
+Francesco Torraca, l'arciprete Ricci di Corsecole, i parrocchiani di
+Polenta, e quel buon don Zattini, che non ha poi molto grassa prebenda.
+Ristaurati furono il tetto, le navate destra e centrale, l'abside
+centrale, la cripta; rimane da ristaurare l'abside a destra di chi
+entra, e da ricostruire il campanile».
+
+   [Illustrazione: Lizzano — Facciata della villa.]
+
+   [Illustrazione: Lizzano — La terrazza del Carducci.]
+
+Dopo quel primo periodo de' lavori, quattro lunghi anni passarono
+prima che altra occasione si offrisse al «buon Zattini» di condurre
+a compimento l'opera intrapresa; e l'occasione venne dall'amicizia e
+dall'interessamento del conte Giuseppe, allora deputato di Cesena, e
+della contessa Silvia Pasolini-Zanelli. I quali, risovvenendosi della
+prima visita del Carducci a que' luoghi, a Lui si rivolsero per averlo
+consigliere, cooperatore massimo, e chi sa? fors'anche rievocatore
+geniale e potente delle glorie onde la chiesetta vetusta fu ed è
+testimone ne' secoli.
+
+Un bel giorno del maggio 1897 la contessa Silvia incontrò il Poeta
+nella libreria Zanichelli, e senz'altro lo invitò a salire a Lizzano,
+ov'è la villa Pasolini, presso Bertinoro, e di lì a far una gita a
+Polenta, per ammirare i già fatti restauri. Il Carducci, sovraccarico
+allora di lavoro per la scuola e per sè, rispose asciutto _un bel no_;
+poi, grado a grado ammansandosi, sorrise e disse con la sua voce tra
+burbera ed affettuosa: Chi sa, chi sa! Forse, passati gli esami....
+
+Alcuni dì dopo, nel retrobottega dello Zanichelli, una trentina di
+amici, quasi tutti letterati e professori, si raccoglievano gaiamente
+attorno al Poeta, ad un pranzetto nel quale fu bevuto del vino d'una
+vigna ariostèa, in onore di messer Ludovico, buon'anima. Molti eran
+venuti apposta di fuori, da Modena, da Reggio, da Scandiano; tra gli
+altri v'erano Vittorio Puntoni, Augusto Righi, il Rugarli, Corrado
+Ricci: unica signora, festeggiatissima e, naturalmente, in capo di
+tavola, la contessa Pasolini. Ed auspice l'Ariosto, la gita a Lizzano
+ed a s. Donato di Polenta fu definitivamente, in cotesto pranzo,
+promessa e fissata.
+
+                                   *
+                                  * *
+
+La «_Villa Sylvia_», dei conti Pasolini-Zanelli, siede e biancheggia
+tra 'l verde, sul colle di Lizzano, in quel di Cesena: e con la sua
+facciata bassa e bislunga; co' balconi dall'ampio frontone arieggiante
+un sobrio barocco, e dal terrazzino di ferriate panciute; con la
+torretta dalla spiovente tettoia d'embrici rossi, che sorge in un
+angolo e domina la terrazza che le si apre al fianco; di tra gli ulivi
+e gli alberelli e le aiuole che la circondano, sembra farsi incontro a'
+visitatori, sorridente e festosa, signorile e cortese come i padroni di
+casa.
+
+Al terreno è la veranda: le piante decorative ed i sedili rustici e i
+fiori vi s'intrecciano vagamente; qualche ninfetta di creta, immobile
+su 'l piedestallo, sorride ed occhieggia a' libri e a' giornali sparsi
+qua e là sui tavolini, mentre il biliardo attende silenzioso, da un
+canto, il secco cozzar delle palle d'avorio su la verde distesa del
+suo tappeto. A sinistra è la sèrra; e attorno e da presso il parco,
+ove tra' boschetti di lauro, i cipressi, i pini odoranti di resina, i
+frutici spessi e intricati, si svolge il piccolo labirinto de' viottoli
+ombrosi: e ne' verdi recessi qualche uccelliera tien prigione la gazza,
+che stride roca e sbatte l'ale tra le inesorabili reti metalliche, o
+il merlo, che piegando leggiadramente la testa a riguardare, siccome
+curioso, chi passa, gira nell'orbita gialla l'occhiolino nero, lucido
+ed acuto. Tutta una trama gentile di fiori vive e palpita, dietro
+la villa, nel giardino, dove l'aria è impregnata di mille profumi, e
+l'occhio s'allegra di mille colori, dal rosso vivace de' garofani e
+de' geranii al bianco candido de' gelsomini e delle gardenie, da gli
+oleandri rosacei al pallido della giunchiglia, al lilla, al violetto,
+al variegato intrecciarsi di sfumature nelle viole del pensiero;
+ed alla destra, da' pergolati e dalle capannuccie di caprifogli e
+convolvoli si stacca un lungo viale di cipressetti nani ritondati,
+dapprima, di alti pini, dipoi; il quale, rasentando per breve tratto
+le rive d'un laghetto nascosto tra le fronde, discende dolcemente
+pe'l declivio del colle, fino ad una rustica capanna circolare tra le
+querci.
+
+E dalla capanna affacciandosi ad una siepe bassa sì come al parapetto
+d'una terrazza, ecco aprirsi alla vista uno spettacolo meraviglioso.
+Una immensa distesa di campi segnati dal verde cupo de' filari de'
+pioppi, e popolati d'alberi, di borgate, di ville, di casolari,
+pianeggia a perdita d'occhio fino al mare sfumante lontano, nella
+linea dell'orizzonte, in una nebbia azzurrognola; e il dolce piano
+sembra sfuggire alle fiorenti colline che lo rinserrano in anfiteatro
+largo e superbo: a sinistra Bertinoro «alto ridente» e la Massa; a
+destra Roversano ed uno sprone ricurvo di alture e di poggi che per
+l'Acquarola, s. Demetrio, i Cappuccini, gira «come in una ripresa
+d'ultimo ed appassionato abbracciamento» fino alla rocca di Cesena;
+e questa, con le mura merlate dalle quali si protendono, non più
+minacciosi, i bastioni, par che protegga ancora la città adagiantesi
+mollemente a' suoi piedi, fra tanto splendore di bellezza e di luce.
+Da lunge, al di là di Roversano, si disegna il profilo del monte di
+Carpegna e spiccano nitide su l'azzurro le tre «penne» di s. Marino.
+
+In così fatto paradiso terrestre giunse, la sera del sabato 5 giugno
+1897, accompagnato da Vittorio Rugarli, e ricevuto con esultanza dagli
+amici suoi, Giosue Carducci.
+
+La gita a Polenta era fissata per il pomeriggio della successiva
+domenica; e furono della comitiva, gentilmente invitati, anche il
+cav. avv. Evangelisti, sindaco di Cesena, il preside del r. Liceo
+prof. Vitaliano Menghini, il prof. Valfredo Carducci, fratello del
+Poeta, l'avv. Nazzareno Trovanelli, amico dei Pasolini e direttore
+del giornale cesenate «_Il Cittadino_». Dal qual giornale, dove
+amorosamente d'allora in poi il Trovanelli andò scrivendo articoli
+e note su i soggiorni del Carducci a Cesena ed a Lizzano, noi d'ora
+innanzi, co'l cortese assentimento di lui, largamente spigoleremo ed
+attingeremo.
+
+Il viaggio da Lizzano a Polenta fu fatto toccando prima Bertinoro,
+dove que' magistrati del Comune, e in capo ad essi il sindaco prof.
+cav. Augusto Farini, insieme con la gentile popolazione, fecero le
+più oneste e liete accoglienze all'illustre visitatore e al deputato
+Pasolini; il Farini, anzi, si unì agli altri, a partecipar della gita.
+E le carrozze s'avviarono, or preste or lente, per la strada montana,
+che svolgendosi come un nastro bianco in salite e discese e giravolte,
+da un capo va a perdersi giù nella pianura, dall'altro s'insinua tra i
+balzi e le piaggie d'una gentil catena di colli, tutti vestiti di vigne
+e d'olivi, di boschi e di prati. «Agile e solo» si eleva sul poggio di
+Conzano l'«arduo cipresso» che la leggenda popolare attraverso i secoli
+ricongiunse alla nascita ed alla vita di Francesca, la figlia di Guido
+da Polenta, che fu moglie infelice a Gianciotto Malatesta; e domina per
+lungo tratto tutta la convalle d'intorno, riaffacciandosi insistente
+a chi sale su «di colle in colle» tra i serpeggiamenti della via e lo
+svariar continuo delle vedute.
+
+A Polenta il ricordato arciprete don Zattini e molti terrazzani erano
+ad attendere il Poeta su 'l piccolo piazzale dinanzi alla chiesa; dal
+quale si vedono, su la vetta d'un poggio dirimpetto alla facciata del
+tempio, i ruderi del castello di Polenta: qualche grosso muro diroccato
+e parte d'un torrione, su' quali sono addossate alcune squallide case
+coloniche. Quando tale castello sorgesse, non si sa con precisione: è
+certo soltanto che fin dal 1278 era stato assalito dai Traversari, i
+competitori dei Polentani in Ravenna, e che il 17 decembre del 1296 fu
+assediato e preso da' Cesenati, i quali condussero prigionieri a Cesena
+più di 120 di quei terrazzani.
+
+La chiesa, così come si presentava a' visitatori, dopo i primi
+restauri, offriva veramente largo campo all'ammirazione. L'avv.
+Trovanelli, nel _Cittadino_ del 13 giugno 1897, dando conto della gita
+carducciana, la descrive così:
+
+«È di forma basilicale, a tre navate, divise da due file di cinque
+colonne e terminanti con un'abside ciascuna. Al termine però della
+navata centrale s'inalza il presbiterio, a cui si accede per una scala,
+mentre, al di sotto, si apre una cripta di stile consimile.... Ma
+l'abside della navata destra è ancora chiusa, essendo stata guasta da
+tempo per costruirvi la sagrestia, e aspetta d'esser restituita alla
+condizione antica. Così manca il campanile, che fu atterrato, perchè
+minacciava. Le colonne della chiesa, grosse e rotonde, a strati di
+mattoni e di conci, sono coronate da capitelli che formano la parte più
+importante e caratteristica dello storico monumento. Sono — scrive il
+cav. Santarelli — scolpiti in pietra locale, alcuni cubiformi, altri a
+dadi, con faccie smussate, variamente ornate con foglie convenzionali,
+disegni geometrici, intrecci bizzarri di tenie, figure grottesche di
+mostri ed animali, il tutto a rilievo molto basso e rude.... Certe
+figure, piuttosto di scimiotti che d'uomini, una specie d'ippogrifo,
+un orribile granchio di mare fermano specialmente l'attenzione. La
+semplicità e austerità dell'ossatura della chiesa contrastano con la
+goffaggine degli ornati; l'una ricorda ancora che in Italia avevano
+fiorito le arti; gli altri attestano un periodo di grande oscurità e
+decadenza....»
+
+Il qual contrasto fu argomento, della conversazione tra il Poeta e
+i suoi compagni, e la contessa Pasolini specialmente. Que' capitelli
+apparvero al Carducci ribellione alla purezza dell'arte greca, quasi
+che il sentimento nuovo cristiano e mistico avesse voluto chieder
+perdono a Dio della grandezza classica e pagana; il che lo trasse a
+parlare della barbarie, ed a ricordare come, ne' primi secoli del
+Cristianesimo, si raccogliessero sotto le ali della Chiesa tutti
+i piccioli mortali, le anime semplici ed avvilite, lungi al fragor
+delle armi e delle violenze, mentre a poco a poco si andava creando
+lo spirito e il sentimento d'una nuova associazione: il Comune. Fu
+ricordata anche l'ipotesi che Dante fosse stato al castello polentano
+e avesse pregato nella piccola chiesa. Nessun documento lo attesta;
+ma è certo che l'Alighieri fu ospite de' Polentani in Ravenna, e
+probabilmente anche si recò a Forlì, presso Scarpetta degli Ordelaffi;
+onde non è inverosimile che egli, così innamorato visitatore de' luoghi
+e delle terre italiane, abbia cercato pace e ristoro alle sventure
+sue anche aggirandosi sui colli di Bertinoro e Polenta, in conspetto
+del mare. Il Carducci lodò i restauri (che erano stati fatti sotto la
+direzione del prof. Faccioli) e riconobbe la necessità di completarli,
+con l'aprir l'abside della navata destra, ricostruire il campanile,
+prosciugare la cripta; aggiungendo che, a lavoro compiuto, un'epigrafe
+latina avrebbe dovuto indicare succintamente quanto si fosse operato e
+in qual tempo. E nell'albo de' visitatori, religiosamente conservato
+d'allora in poi, scrisse le seguenti parole: «_6 giugno 1897. Giosue
+Carducci rivide con grande piacere e soddisfazione l'antica chiesa di
+Polenta restaurata_».
+
+Non mancò alla piacevole gita il complemento, ormai consueto, delle
+istantanee fotografiche, per opera di Pierino Pasolini-Zanelli,
+giovinetto bello e lieto e di forte ingegno, unico figlio ormai rimasto
+(dopo la morte di Paolo e Tiberio) alla contessa Silvia ed al conte
+Giuseppe; i quali, di lì a un anno, dovevano pur troppo sentirsi
+crudelmente strappare di mezzo al cuore anche cotesto ultimo figliuolo
+adorato.
+
+Su 'l tramonto, la comitiva riprese la via per Lizzano, recando seco
+nell'anima i ricordi e le immagini d'un giorno pieno di pensiero e di
+affetti. Scendendo da que' colli incantati, il Carducci, mentre il sole
+illuminava di rossi bagliori tutto l'occidente, fu preso dalla dolce
+malinconia dell'ora e dalla poesia de' luoghi, la quale evidentemente
+passava e avea rispondenza nell'anima sua. A Lizzano, poi, una schietta
+giocondità riprese impèro nei cuori: i gitanti furono convitati
+a pranzo con signorile ed affabile cortesia, e la banda di Cesena
+suonò nel giardino, e fuochi e luminarie fantastiche rallegrarono
+il calar delle ombre oscure di quella dolce sera primaverile, mentre
+il Carducci, divenuto quasi infantilmente lieto, accoglieva commosso
+l'ammirazione un po' rozza, ma sincera ed affettuosa, di que' sonatori
+e di que' popolani romagnoli.
+
+L'eco della indimenticabile giornata si ripercosse subito ed a lungo
+in Romagna e fuori, fino a Roma, donde nel luglio di quello stesso
+anno il ministero dei culti mandò spontaneamente mille lire in aiuto
+delle spese per nuovi ed ultimi restauri del tempio; e il 15 di
+settembre usciva nell'_Italia_ di Roma, diretta dal conte Domenico
+Gnoli, quella che fu il frutto più bello ed insigne della visita
+carducciana: vo' dire l'_Ode alla chiesa di Polenta_. Che il 9 ottobre
+uscì poi in elegantissimo opuscolo, illustrato riccamente con fototipie
+della chiesa, ed èdito dalla ditta Zanichelli. Inutile qui ricordare
+le discussioni lunghe e vivaci, e le molte voci d'ammirazione,
+d'assentimento, di critica cui la bellissima lirica diè luogo;
+basti che da essa derivò un risveglio nuovo d'amore e per il grande
+Poeta e per la «chiesetta del _suo_ canto»: onde i lavori per
+l'assetto definitivo di quest'ultima, invocati dal Carducci stesso
+ne' suoi versi, e confortati d'aiuti pecuniarii dal governo, dalla
+regina d'Italia, da amministrazioni pubbliche (tra cui la provincia di
+Forlì) e da cittadini privati, furono ripresi, con la ricostruzione
+del campanile, nel settembre del 1898. Resta, ancor oggi che noi
+scriviamo, da aprire la terza ed ultima abside; ed è da augurare che
+un ultimo atto di buona volontà compia la bella opera d'arte e soddisfi
+interamente il voto dell'immortale cantore.
+
+Il consiglio del Comune di Bertinoro volle poi manifestare la
+riconoscenza sua al Poeta che tanta nominanza aveva aggiunta alla
+città, nel cui territorio è s. Donato di Polenta; e nella seduta
+plenaria del 23 marzo 1898, su proposta del consigliere ing. Giacomo
+Fabbri, elesse il Carducci, con unanime consenso di voti, a cittadino
+onorario. Alla comunicazione ufficiale, fattagliene con lettera del
+20 aprile, il Poeta rispose il 23 dello stesso mese, dicendo d'aver
+ricevuta la notizia con profondo sentimento di gratitudine, mescolata
+di meraviglia e di tenerezza. «Di meraviglia — spiegò — perocchè io
+non reputava mai aver fatto cosa da meritare tanto; di tenerezza,
+perocchè da quando lessi il nome della vostra terra leggiadra nel poema
+di Dante, la mia fantasia errò spesso intorno al colle che fu seggio
+di virtù e di pregio negli antichi giorni che tutto il popolo era
+cavaliere».
+
+                                   *
+                                  * *
+
+Ma il ciclo degli avvenimenti e delle memorie carducciane attorno a
+Polenta non era ancora conchiuso. Il 21 luglio di quel medesimo anno,
+verso le ore sedici, un fulmine atterrava e schiantava miseramente
+il solitario cipresso cui il Carducci avea dato, co' suoi versi, il
+suggello della fama; onde nacque nel pensiero di molti, e specialmente
+dei Pasolini-Zanelli, la gentile idea di ripiantare un giovine cipresso
+nuovo, che sostituisse l'antico. Alla quale operazione si volle
+presente ed auspicante il Poeta; e questi, accogliendo volentieri
+l'invito, giunse a Cesena la sera del 24 ottobre, e salì subito alla
+villa di Lizzano.
+
+La mattina seguente Egli ed i suoi ospiti, accompagnati dal marchese
+Alessandro Albicini e dall'avv. Trovanelli, si condussero a Fornò
+o Fornovo, tra Forlì e Forlimpopoli, ad ammirarvi uno dei più bei
+monumenti quattrocenteschi che si conservino in questa regione:
+la magnifica chiesa rotonda, ciò è, che edificata nel 1450 da
+Pietro Bianco da Durazzo, corsaro ridottosi a penitenza, con la sua
+architettura, con le porte ogivali, co'l bellissimo sepolcro del
+fondatore, con gli ornati, le figure, gli affreschi, sorge qual
+gentilissimo fiore dell'arte italiana tra il verde della pianura
+romagnola. Tornando da quella gita, fu fatta una sosta a Forlimpopoli,
+per visitarvi la Scuola Normale che v'era stata instituita sopra tutto
+per l'interessamento del Carducci, e della quale era, ed è tuttavia,
+direttore egregio il prof. Valfredo, fratello del Poeta. Nel cuore
+di quest'ultimo rifiorivano di certo i ricordi di altre sue visite
+a Forlimpopoli, avvenute nell' '87 (quando primieramente gli fu
+parlato della necessità d'una scuola normale in quella cittadina dal
+suo discepolo Raffaele Righi, oggi professore di storia nel Liceo di
+Ravenna); nell' '89 (quando già la detta scuola era stata eretta
+dal Ministero dell'istruzione, anche per le sollecitazioni di Francesco
+Torraca, provveditore agli studî in Forlì); in fine nel '94, dopo il
+celebre discorso di s. Marino. Gli alunni della scuola vollero ora
+amorosamente stringersi attorno al visitatore illustre, acclamandolo
+a lungo; e l'alunno Virgilio Benini di Meldola disse qualche parola
+di commosso reverente affetto, a cui rispose il Poeta stimolando que'
+futuri maestri ad educare a nobili sensi la gioventù italiana.
+
+   [Illustrazione: Il vecchio «cipresso di Francesca».]
+
+   [Illustrazione: A Lizzano.]
+
+Nel pomeriggio del 26 ottobre, finalmente, dopo esser tornati a
+Polenta, ed aver veduto, con molto compiacimento, gl'iniziati lavori
+del «campanil risorto», il Carducci e i suoi ospiti, circondati d'una
+schiera d'amici e di popolani (v'erano il su detto marchese Albicini,
+l'avv. Trovanelli, il pittore Gianfanti), salirono il colle di Conzano,
+e sentirono in cuore la letizia dell'accomandare al culto ed alla
+memoria de' posteri, riparando all'ingiuria della natura, il gracile
+cipressetto co'l quale incominciava un ciclo di tradizioni nuove
+innestate sulle tradizioni antiche. Erano ad attenderli il proprietario
+della villa lì presso, conte Stefano Rusconi, l'ing. Aristide Fantini
+(i quali tutto avean provveduto per la piantagione dell'alberello), e
+il prof. Valfredo Carducci con le sue gentili figliuole. Nella larga
+fossa, già aperta sul culmine del poggio, fu costrutta una specie
+di piccola arca, entro la quale venne murato un tubetto di ferro
+contenente una pergamena con le parole: «_26 ottobre 1898. Ripiantato
+l'antico cipresso dell'ode a Polenta_»; sotto le quali il poeta avea
+scritto di sua mano: «_Quod bonum felix faustumque sit_». E il Carducci
+stesso, con la cazzuola del muratore, gittò sulle radici del cipresso
+un pugno di terra.
+
+Da Conzano la comitiva si recò poi a Bertinoro, dove il Consiglio
+comunale, solennemente congregato, intendeva ricevere con tutti
+gli onori il suo nuovo concittadino di elezione. La piccola città,
+arrampicata leggiadramente sulle alture del bellissimo colle, parea
+tutta rallegrarsi di quella festa intima e gentile; le vie erano
+affollate di gente, le bandiere sventolavano alle finestre ed a'
+balconi, la banda suonava nella maggior piazza. Nella sala del
+Consiglio, gremita di consiglieri e di pubblico, erano allestiti i
+seggi pe'l Carducci e per chi l'accompagnava; sopra un tavolino da
+presso era, mimato in bellissima pergamena, il diploma latino della
+cittadinanza bertinorese al Poeta. Al quale il sindaco Farini presentò
+il diploma con un discorso veramente bello nella sua sobrietà. «Le
+parole dell'epigrafe — disse fra le altre cose il Farini — furono nella
+antica lingua del Lazio dettate da un distinto vostro alunno, il prof.
+cav. Paolo Amaducci, bertinorese, che nomino qui a cagione di onore, e
+furono vergate nella pergamena e illustrate da fregi da un altro vostro
+ammiratore, che ha l'anima d'artista, il prof. Agostino Severi della
+Scuola Tecnica di Cesena. La cornice che inquadra la pergamena deve poi
+riuscirvi più cara in causa di un pregio singolare. Il cipresso, che
+voi cantaste nell'ode alla chiesa di Polenta, fu nel pomeriggio del 21
+luglio decorso colpito ed atterrato da un fulmine. Ebbene, il legno di
+questa cornice è tratto da quel ceppo! Si direbbe quasi che la natura,
+per unirsi alle acclamazioni del popolo, abbia detto al cipresso: Tu,
+che avesti il vanto di essere cantato dal maggior poeta, hai vissuto
+abbastanza! Colpito dal sacro fuoco del cielo, muori di morte gloriosa:
+spogliati, e cedi le tue spoglie per onorare il poeta che ti cantò!»
+
+Il Carducci, profondamente commosso, rispose con una felicissima
+improvvisazione; nè fu possibile a' presenti, tutti assorti
+nell'ascoltare, il raccoglierne le testuali parole. Pili tardi Egli,
+cedendo alle preghiere degli amici, non isdegnò di ricostruire il suo
+breve discorso, che qui riportiamo dal giornale «_Il Cittadino_» del 27
+novembre 1898:
+
+        _«Signor sindaco,_
+      _signori consiglieri, cari cittadini,_
+
+  «Io, componendo i versi su la chiesa di Polenta, obbedii a un
+  segreto mio genio, il quale, ovunque la terra italiana mostra le
+  sue bellezze, ovunque la storia italiana parla con le sue memorie,
+  mi comanda di accogliere quelle memorie, di rendere quelle bellezze
+  con la parola ornata ed alata. Voi troppo superior premio voleste
+  concedere a' miei versi, e tale che mi è di massimo onore e di
+  tenero e cordiale compiacimento. Onore e compiacimento: perchè
+  Voi, o signori di Bertinoro, mostraste di saper apprezzare la
+  poesia nel modo più degno, quando riconosceste l'opera, quale a voi
+  parve che fosse, del poeta, chiamandolo a far parte della città,
+  conferendogli la fratellanza vostra: «Tu dicesti della patria cose
+  non indegne, tu sii de' nostri». — Ed è grande onore appartenere
+  a questa città, di cui sì belle sono le memorie nella cortesia dei
+  Comuni, sì nobili le traccie nelle vicende della cultura italiana,
+  sì raro e dignitoso il riserbo.
+
+  «Con isquisitezza poi di pensieri voleste adornare il vostro
+  benefizio, commettendo che l'atto consigliare col quale mi
+  conferiste la vostra onorata cittadinanza mi fosse rappresentato
+  in sì solenne e parca forma latina, pensata da uno de' vostri, con
+  sì prezioso adornamento di arte nostra italiana, lavorato da altro
+  de' vostri: verace testimonianza che nella vostra terra gentile è
+  più che mai verde, insieme con l'idea del bene, il fiore dell'arte
+  e della parola. Grazie di tutto cuore vi siano rese: tanto più
+  profonda e cordiale è la mia gratitudine, o cittadini, quanto
+  voi con questo vostro benefizio faceste più saldo e più intimo il
+  vincolo di affetto che mi lega fin da' miei giovani anni a questa
+  gloriosa Romagna».
+
+Il 27 ottobre, dopo aver ammirati, nella insigne biblioteca
+malatestiana di Cesena, i codici più pregevoli per antichità e per
+vaghezza di miniature, e nella pinacoteca municipale i bei quadri del
+Francia, del Sassoferrato, dell'Aleotti, Giosue Carducci facea ritorno
+a Bologna; e lo accompagnavano la gratitudine e i voti di tanti cuori
+che Egli aveva ormai a sè legati, indissolubilmente.
+
+                                   *
+                                  * *
+
+Dalla fine del '98 in poi parve addensarsi sul capo glorioso del Poeta
+e su quello degli amici suoi, una nube di dolori e di sciagure. Il
+2 decembre di quell'anno moriva a Livorno, quasi a un tratto ed in
+florida età, il prof. Carlo Bevilacqua, suo genero, lasciando la vedova
+con cinque figli (ed è risaputo che il Carducci corse a prendere la
+sua diletta Bice e i nipotini, e li collocò vicino a sè in Bologna,
+provvedendo ad essi come meglio gli fu possibile); il 28 dello stesso
+mese il conte Pierino Pasolini-Zanelli, colto da una strana improvvisa
+malattia, cedea giovanissimo alla violenza del male, sì come fiore
+reciso d'un colpo di su lo stelo, lasciando nello strazio e nel vuoto
+d'una solitudine angosciosa i genitori, ormai orbati di tutti i figli
+(e il Poeta ne fu profondamente percosso e addolorato); infine, la
+mattina del 25 settembre 1899, Giosue Carducci medesimo veniva assalito
+da quel male onde rimase impedito nel braccio e nella mano destra.
+
+Ma sotto le ali gelide della sventura i cuori si raccolsero e si
+strinsero insieme: e cominciò così tra il Carducci e la famiglia
+Pasolini il secondo periodo della loro amicizia, che il dolore comune
+avea resa più malinconicamente dolce, più tenera, più intensa che mai.
+E quando, nel settembre del 1901, la pietà della madre e del padre
+ebbe eretto nel cimitero di Faenza al povero Pierino quello squisito
+ricordo marmoreo che uscì dallo scalpello dello scultore Ierace, Giosue
+Carducci dettò per l'erma funeraria le parole dolenti: «_Ci fu mostrato
+soltanto perchè la vita con lui paresse un dono benigno di Dio, e fosse
+poi sconsolato deserto il vivere senza_».
+
+Il 19 maggio del 1900 Egli e la signora Elvira, sua consorte, invitati
+affettuosamente, giungevano a Lizzano; ed ivi passavano di poi circa
+due mesi, in quella villa dove gli ospiti loro non osavano rimetter
+piede dopo la scomparsa del figlio. Ma quasi tutti i giorni il
+Poeta discendeva a Cesena, al palazzo Pasolini, per divider la vita
+insieme con gli amici: e come Egli s'era assunto il còmpito pietoso
+di ricondurre gl'infelicissimi genitori su 'l colle sereno dove tutto
+parlava del giovinetto perduto, e di raddolcire co'l vigile cuore
+l'inevitabile amarezza dei ricordi, così avvenne che un giorno Egli e
+gli amici salirono a piangere insieme a Lizzano.
+
+D'allora in poi, quasi ogni anno il Poeta fu ospite gradito, venerato,
+idolatrato dei Pasolini, nella primavera e nell'autunno, un po' a
+Faenza ed a Cesena, e molto a Lizzano; dove, tra le aure balsamiche e
+il profumo de' fiori del dolcissimo colle, suo conforto e sua gioia,
+la fibra robusta di Lui lottò vigorosamente contro i progressi lenti
+ma inesorabili dell'infermità. Durante que' soggiorni, molte gite Egli
+fece in carrozza od in automobile, accompagnato sempre da qualcuno de'
+suoi ospiti, visitando partitamente, può dirsi, presso che tutta la
+Romagna; e sia che da Faenza si spingesse tra i poggi fiorenti della
+vicina Toscana, o, lungo il duplice infinito filare de' pioppi del
+canal naviglio, fin verso l'Adriatico, là dove
+
+    «ondeggiante di canape è l'infido
+    piano che sfugge al curvo Reno e al Po»;
+
+sia che da Lizzano risalisse più volte la conica altura di Bertinoro
+e il «balcon di poggi» di Polenta; sia, infine, che si conducesse
+lunghesso il corso del Savio, a visitar le allegre borgate limitrofe e
+l'immensa distesa del
+
+                «. . . . . . . . dolce
+    pian cui sovrasta fino al mar Cesena»;
+
+dovunque il paesaggio romagnolo fu il sorriso amoroso e gentile della
+natura a Lui, che serenamente aspettava _la grande ora_. Così trovava
+pace e ristoro ne' luoghi ameni che avea legati a sè con forte vincolo
+di affetto e di gratitudine; il che si compiacea affermare e ripetere
+di sovente Egli stesso, attribuendo graziosamente alla Romagna i versi
+della _Leggenda di Teodorico_:
+
+    «. . . . . ed il bel verde paese
+    che da lui conquiso fu».
+
+Il popolo di questa regione, al quale il Carducci divenne quasi
+familiare, sebbene non potesse comprendere in tutte le sue parti ed in
+tutta la sua profondità l'opera carducciana, mostrò sempre di sentire
+la grandezza di Lui, e subì il fascino del suo genio; e dovunque Ei
+passasse, si manifestava spontanea l'affinità d'animo tra quel forte
+etrusco e questi romagnoli impetuosi, i quali l'impeto del cuore sapean
+contenere questa volta, per un senso di delicatezza che si esprime, non
+di rado, dagli uomini semplici e rudi, entro i confini del più profondo
+rispetto: onde non acclamazioni troppo rumorose, nè ostentazione di
+festeggiamenti, sì bene accoglienze schiette e modeste, ed un muovergli
+incontro quasi timidamente, un salutar reverente, un guardarlo fiso
+ed a lungo non tanto per curiosità quanto per ammirazione commista di
+tenerezza.
+
+Il 9 giugno 1900, adunque, il Poeta fu a Montiano, ove ammirò il
+castello già de' Malatesta (oggi del principe Spada); l'undici
+del mese stesso si recò a Savignano, ove, ricevuto dal consiglio
+direttivo dell'accademia de' Filopatridi, della quale era presidente,
+osservò la ricchissima biblioteca, e d'onde fu invitato dal marchese
+Giuseppe di Bagno a salire fino alla sua magnifica villa; il 9 giugno
+1902 si condusse al grazioso paese di Longiano, ed ossequiato dal
+sindaco dott. Luigi Turchi e dalla intera giunta comunale, visitò
+il castello e la biblioteca, fermando la sua attenzione specialmente
+su le opere dell'umanista Fausto da Longiano; il 28 maggio 1903 andò
+da Faenza a Modigliana, e quivi, accolto con molta festa dal sindaco
+Enrico Fiorentini, dagli assessori del Comune, da' buoni ed ospitali
+Modiglianesi, visitò la casa di don Giovanni Verità (il prete liberale
+che salvò Garibaldi), e nell'albo dei documenti del risorgimento
+scrisse con mano malferma: «_Tremante di commozione e di reverenza
+segna presso questi sacri documenti il suo nome l'umile italiano Giosue
+Carducci_»; il primo di giugno del medesimo anno fu al Borello, presso
+a Cesena; nel giugno del 1904 visitò Cervia (facendo un'escursione
+nella prossima pineta) e Rimini, ove ammirò di nuovo il magnifico
+tempio malatestiano, trionfo dell'arte e dell'amore, esempio insuperato
+dell'Umanesimo nostro; nell'autunno del 1905 si recò a Cesenatico, e
+rivide Cervia, Montiano, Carpineta; infine, nella primavera del 1906,
+rivide, ahimè per l'ultima volta!, Bertinoro e la sua diletta chiesa di
+s. Donato di Polenta.
+
+Non è da credere, però, che in cotali gite consistessero le sole
+occupazioni sue, nè che la villeggiatura di Lizzano fosse per Lui di
+riposo continuo ed assoluto.
+
+Talvolta, è vero, Ei si godeva i cari ozî passeggiando, fidato al
+braccio di qualcuno degli ospiti o degli amici, per i vialetti freschi
+del parco, o conversava co' suoi compagni nella quiete raccolta de'
+luoghi, od ascoltava silenzioso le voci misteriose della natura;
+anche è vero che spesso, al primo chiarore dell'alba, dalla sua camera
+passava nell'ampia e ridente terrazza ivi presso (alla quale è rimasto
+il nome di _terrazza del Carducci_), e contemplava a lungo, assiso sur
+una poltrona, la veduta stupenda del pian di Cesena, assistendo beato
+al sempre nuovo spettacolo del sorger del sole dalle acque del mare
+lontano: ma attendeva eziandio al disbrigo, come oggi si dice, della
+sua corrispondenza, e persisteva tenacemente nel volersi occupare di
+studî.
+
+Il Poeta, in cui era sempre pronto il pensiero, sempre vigile la
+memoria (e ben se lo sa chi lo vide scattare ad un cenno, ad un
+ricordo, ad una parola che lo commovesse), parlava ormai, specie negli
+ultimi due anni, tronco e breve; ascoltava più che non dicesse: sì
+che, pur nell'intimità dell'amicizia, alle conversazioni animatissime
+d'una volta supplivano in gran parte le letture. Aveva i suoi autori
+preferiti, de' quali sembrava non saziarsi mai, e co' quali ritornava
+a dilettazioni antiche, rivivendo così dolcemente nel passato. Non
+di rado, adunque, seduto sull'erba fresca de' prati o all'ombra delle
+querci che circondano la capanna rustica in conspetto dell'Adriatico,
+ascoltò la lettura, fattagli amorosamente dalla contessa Silvia o da
+altri, di classici italiani e stranieri, o dettò lettere in risposta
+alle moltissime che anche lassù a Lizzano, come sempre e dovunque,
+gli pervenivano. Così, per esempio, nel giugno 1904 rilesse non pochi
+libri, tra cui le opere minori di Dante, e rivide le bozze di stampa
+di qualche suo volume delle _Opere_, e compiè lo studio su la _Canzone
+delle tre donne_ dell'Alighieri, dedicato poi a Cesare Zanichelli per
+le nozze di sua figlia Luisa; e nell'autunno del 1906, in quello che
+pur troppo fu l'ultimo suo soggiorno nella campagna cesenate, volle
+riudire alcune novelle del Boccaccio (quelle, sopra tutte, che, come
+ser Ciapelletto e frate Cipolla, sono una specie di anticipazione
+volterriana), e taluni drammi dello Shakespeare. Interrogato quali
+d'essi drammi preferisse (tolgo queste notizie dal _Cittadino_ del 28
+ottobre 1906), rispose d'aver fermata la sua ammirazione segnatamente
+su 'l _Re Lear_, su 'l _Macbeth_, su 'l _Giulio Cesare_; del
+_Coriolano_, poi, aggiunse d'essersi sentito così preso, da giovine,
+che ne tentò la traduzione in versi, giungendo fino alla metà del
+secondo atto. Volle fossero riletti anche il _Mercante di Venezia_,
+la _Tempesta_, l'_Enrico VIII_, tutti nella non bella, ma a bastanza
+fedele traduzione del Rusconi; il _Cymbelino_, invece, fu letto nella
+versione del Càrcano, de' brutti versi del quale volle rifarsi passando
+poi subito all'_Agide_ di Vittorio Alfieri.
+
+Talvolta anche, nella più stretta e dolce familiarità, «tra stuol
+d'amici intemerato e casto», Egli, così impaziente delle adulazioni
+e così schivo degl'incensamenti del mondo esteriore, non isgradiva
+di sentir leggere alcuna delle sue poesie o delle sue prose, che gli
+facessero risuonare nell'anima l'eco di tempi, di luoghi e di battaglie
+lontane. Accompagnava allora la bella armonia con i gesti del braccio e
+con l'accennare dell'indice della piccola mano, a guisa di chi dirige
+un'orchestra; e se i versi erano patriottici o civili, s'illuminava
+quasi d'un raggio divino, e sui lineamenti del volto passavano, come
+su terso specchio, i segni della commozione interna: scuoteva la
+testa leonina, ravvolgeva nervosamente la mano entro l'ampia arruffata
+capigliatura, lampeggiava negli occhi, mentre non di rado due grosse
+lagrime gli scendevano lente giù per le gote. Così lo abbiamo visto
+durante la recitazione del _Piemonte_, o del _Cadore_, o dell'epodo per
+_Monti e Tognetti_, o della divina ode _Alle fonti del Clitumno_; nè
+mai il sublime spettacolo si cancellerà dalla nostra mente e dal nostro
+cuore!
+
+Uno de' conforti più efficaci fu a Lui, inoltre, durante la sua
+permanenza presso gli amici, la musica. Ciò parrà inverosimile a chi
+ricorda quel ch'Egli nel 1882 aveva scritto nella prefazione ai _Giambi
+ed Epodi_ (_Opere_, IV, p. 157): «Quanto alla musica, io lascio sonare;
+non me ne intendo; e più sonan forte, più mi piace: sono tedesco»; le
+quali parole furono piuttosto una tal quale ostentazione bonaria di
+ruvidezza esteriore, che non l'espressione esatta della sua attitudine
+ad intendere l'arte divina dei suoni. Certo, mentre così diceva,
+non mentiva a sè nè agli altri, da poi che la sincerità fu la norma
+costante di tutta la vita sua: ma è un fatto che dovette parlare senza
+conoscersi, senza, ciò è, sapere qual rispondenza alle voci misteriose
+e profonde della musica avrebbe potuto avere l'anima sua, quand'ella vi
+fosse stata predisposta ed educata. Al che molto gli giovò la compagnia
+della contessa Silvia Pasolini, musicista e pianista veramente eletta;
+onde a Lui avvenne come a tutti coloro che primieramente s'avviano
+per i sentieri ignoti d'Euterpe: i quali, udendo in principio la
+successione e la fusione dei suoni, non se ne sanno render conto, e
+trovansi come disorientati e smarriti; ma quando vi abbiano assuefatto
+l'orecchio ed educato lo spirito, sentono sorgere da' suoni forme
+nuove di pensiero e di sentimento, le quali integrano, per così dire,
+il linguaggio della parola, che è insufficente a significare tutte le
+sfumature dell'anima. Non altrimenti — dice il Wagner — chi entra per
+la prima volta nel bosco silente dalla tumultuosa città, è incapace
+a percepirne i rumori; ma poi, raccogliendo l'orecchio, ne distingue
+ognor più gradatamente i suoni più lievi.
+
+   [Illustrazione: Giosue Carducci ripianta il cipresso sul colle
+   di Conzano.]
+
+Così il Carducci aprì l'anima alla musica, e n'ebbe dolcezza e ristoro
+ineffabile; ed intese e gustò i classici e i moderni italiani e
+stranieri: degl'italiani i più gloriosi, dal Pergolesi al Verdi; degli
+stranieri Beethoven, Chopin e Riccardo Wagner.
+
+A Longiano, nella gita del 9 giugno 1902, ascoltò rapito la musica
+del secondo atto del _Tristano e Isotta_, suonata al pianoforte ed
+accennata egregiamente con la voce dall'avv. Achille Turchi; a Faenza,
+la sera del 15 novembre 1903, in una genialissima riunione artistica
+in casa Pasolini, incoraggiò molto il giovine Balilla Pratella di
+Lugo, di cui fu eseguita una notevole composizione per canto, piano e
+violino, su l'_Ode alla chiesa di Polenta_; a Lizzano, il 21 settembre
+1904, udì cantare da Alessandro Bonci la schietta romanza italiana
+«_Tre giorni son che Nina_» del Pergolesi, e tanto si compiacque di
+quella interpretazione patetica e gaia insieme che, sentendo fuse così
+bene l'opera del maestro e quella del cantore, esclamò: «Sembra una
+voce creata apposta per questa musica!». Ed in un albo, ove il Bonci
+conserva le più preziose memorie, scrisse di suo pugno: «_Lizzano,
+21 sett. 1904. Udita nella voce del Bonci la risorta musica del
+Pergolesi_». Infine, più volte, a Faenza ed a Lizzano, ebbe l'anima
+accarezzata e placata dal vibrante violino dell'illustre prof. Federigo
+Sarti (che fu maestro ed amico affettuoso di Pierino Pasolini-Zanelli),
+o da quello della giovanissima artista Antonietta Chialchia, allieva
+del Sarti medesimo; alla quale volle, in segno di gratitudine, regalare
+un suo ritratto con le parole autografe: «_Al mattino radiante il
+tramonto brumoso. G. Carducci_».
+
+                                   *
+                                  * *
+
+Così il Poeta trascorreva, dolcemente consolato, gli ultimi suoi
+giorni; ed intanto, mentre qui in Romagna a Lui salivano, nelle forme
+più semplici e pudiche, le manifestazioni d'amore di tanti popolani,
+a Lui pervenivano anche i saluti, gli augurî, gli omaggi del mondo
+civile. Da Terni gl'insegnanti secondarî e primarî; da Caserta gli
+ufficiali di finanza; da Sarzana i commemoranti il centenario della
+presenza dell'Alighieri; da Scarperia i celebranti il seicentenario
+della fondazione di quel castello; da Faenza i maestri elementari e i
+professori e gli studenti del Liceo-Ginnasio; da Cesena gli ammiratori
+offrenti in un album artistico i ricordi della biblioteca malatestiana;
+da Bologna i professori delle scuole medie adunati in solenne
+congresso; persino dalla lontana Repubblica Argentina gl'Italiani ivi
+residenti; da ogni terra, insomma, ed in ogni giorno in cui suonasse
+un'alta parola, o si elevassero i cuori verso un'idealità pura e
+gentile, giungevano al Grande Spirito che ancor vigilava, sì come al
+nume tutelare della patria, invocazioni e preghiere d'assentimento e
+d'incoraggiamento.
+
+A tante espressioni di reverenza e di gratitudine, una
+significantissima stava per aggiungersi il 29 giugno 1905: la visita
+al Carducci, in Lizzano, della regina madre. Se non che, all'ultimo
+momento, tale visita fu sospesa, a causa, si disse, del gran nubifragio
+che desolò, a que' giorni, i territorî di Ferrara, Forlì e Ravenna; e
+che questo novello omaggio di Margherita di Savoia al genio del Vate
+non potesse avvenire, a non pochi increbbe, però che sono sicuramente
+fra i maggiori meriti dei sovrani della terra quelli che essi si
+abbiano acquistati verso i sovrani del pensiero.
+
+Ma è da ricordare che pochi dì innanzi al Carducci era giunto,
+in Romagna, uno speciale pensiero del re d'Italia; il quale, a'
+ringraziamenti del Poeta per la croce dell'ordine civile di Savoia,
+conferitagli con decreto del primo di giugno 1905, volle a sua volta
+rispondere col seguente dispaccio telegrafico: «_14 Giugno — Giosue
+Carducci — Cesena. — Sono lieto di averle potuto dare un novello
+segno della mia ammirazione, e molto ho gradito la cortese lettera
+con la quale Ella ha voluto ringraziarmene. Vittorio Emanuele_». Tale
+dispaccio giunse al Carducci inaspettatamente, mentr'Egli esaminava nel
+palazzo Pasolini la copiosa raccolta de' documenti del risorgimento,
+stati già del generale Andrea Ferrari, duce de' volontarî romani nel
+'48-'49, e da lui consegnati al suo aiutante maggiore Pietro Pasolini,
+che li conservò religiosamente. Il Poeta stava sfogliando quel migliaio
+e mezzo di carte, nelle quali è l'itinerario delle legioni romane
+dal febbraio del '48 fino a Vicenza, a Malghera, alla Repubblica
+Romana, e dove spesso ricorrono i nomi del Durando, di Ugo Bassi, del
+Manin, di Guglielmo Pepe, del Tommasèo; e nell'animo commosso gli si
+rinnovellavano i giorni tragici ed epici della patria; quando la parola
+del capo dello stato gli giunse quasi come la voce dell'Italia _libera
+ed una_, attestante che non invano erano stati i sacrificî e gli
+eroismi, le congiure e i patiboli.
+
+_Libera ed una_ davvero? Ahimè! Il Poeta, cui nella gioventù e
+nella virilità parve che mal fosse assicurata da' governanti e da'
+procaccianti alla patria una vera libertà, ebbe poi per tutta la vita
+confitta nel cuore la spina del saper non compiuto l'edificio nazionale
+nostro. Fu irredentista nobilissimo e fiero; ed ai vigorosi aneliti
+di Trieste e di Trento verso l'Italia, rispose sempre sospirando e
+fremendo, in uno slancio di sublime amore.
+
+Nel giugno del 1905, dovendosi inaugurare a Padova il tricolore offerto
+a quel comitato della «_Dante Alighieri_» dalle donne italiane _d'oltre
+confine_, fu chiesta a Lui una parola augurale. Rispose: «_Cesena, 11
+giugno. Alle gentili donne italiane di qua e di là del confine, dal
+sacro spirito di Dante ferma fede, magnanima costanza, diritto, pieno
+e sereno adempimento di ogni loro aspirazione buona, prega l'umile
+italiano Giosue Carducci_». E da Padova gli giunse, il dì dopo, questo
+telegramma: «_All'umile italiano, la cui gloria rende ogni italiano
+superbo, a nome delle altre donne a me compagne nella solenne cerimonia
+qui ieri celebratasi, invio caldi ringraziamenti per l'alta patriottica
+parola onde volle onorarci, augurando che a lungo risuoni paterno
+incitamento ad egregie cose. Ada Dolfin Boldù_».
+
+Di lì a pochi giorni avea luogo in Lizzano una semplice, intima,
+commoventissima festa: la consegna a Giosue Carducci d'una medaglia
+d'oro decretatagli da Trieste, come ricambio d'affetto a quello
+intensissimo consacrato, ne' carmi del Poeta, alle terre italiane
+ancora divelte dal seno della patria. Nel pomeriggio del 17 giugno
+giungeva a Lizzano Giacomo Venezian, triestino e professore
+nell'Università di Bologna, cui Trieste avea dato incarico di
+presentare al Poeta il segno sensibile del suo omaggio; ed insieme
+con lui erano il prof. Puntoni, rettore dell'Università medesima, il
+sindaco di Cesena ing. Angeli, e l'avv. Trovanelli. Pochi altri intimi
+di casa Pasolini, tra cui il prof. Giuseppe Morini e la contessina
+Antonietta Gessi, assistettero alla cerimonia. Questa avvenne nella
+veranda, e vi fu presente anche la signora Elvira Carducci, con
+manifesto compiacimento. Il Venezian porse al Maestro, racchiusa in
+astuccio di pelle, la medaglia d'oro, su cui è da un lato l'effigie
+del Vate, e dall'altro sta Trieste, assisa su d'un rudero, mentre verso
+di essa volan dal mare, in forma di gemetti e puttini, i canti di Lui.
+In alto è il verso: «_Tu sol, pensando, o idëal sei vero_»; sotto è la
+dedica: «_Trieste, a suggello d'antico amore_».
+
+   [Illustrazione: Giosue Carducci sulla porta della chiesa di
+   Polenta.]
+
+   [Illustrazione: Nei viali di Lizzano.]
+
+Il degnissimo figlio e rappresentante della cara città disse al Poeta
+poche e semplici e degne cose: voler esprimere quella medaglia il
+sentimento d'antica e devota devozione e d'intenso affetto di tutti i
+Triestini al Poeta nazionale; avere Trieste, da prima, avuto in animo
+di promuovere la solenne coronazione del Vate in Campidoglio; ma come
+parve difficile il piegare la modestia di Lui a tanta solennità, e non
+volendo la città deporre la speranza di onorare sè stessa onorando il
+Maestro, così aver essa cercato altra forma d'omaggio coll'effigiarne
+durabilmente l'immagine in una medaglia. Aggiunse il Venezian che
+i promotori della manifestazione non avean voluto mettere innanzi i
+loro nomi, perchè questa apparisse, quale veramente era, spontanea ed
+unanime di tutto il popolo triestino; ma egli consegnava al Maestro
+un documento da cui si pareva meglio il significato e il valore
+della dimostrazione, e ciò è il rescritto della imperiale e reale
+polizia di Trieste col quale «_si conferma il divieto di fare in una
+città austriaca pubblico appello per onorare il Poeta che ne' suoi
+scritti scagliò le più violenti invettive contro la persona di S. M.
+l'imperatore, e glorificò l'azione d'un Oberdank_».
+
+   [Illustrazione: La medaglia di Trieste.]
+
+Giosue Carducci, che fino allora avea ascoltato con un fare tra
+il bonario e il commosso, alle parole del rescritto divenne acceso
+in volto come se una subita vampa di fuoco gli fosse salita su dal
+cuore; e scattò in piedi, Egli che pur male reggevasi ormai sulle
+gambe, esclamando: «No, città austriaca, no! La più italiana delle
+italiane; la fedele di Roma». Ed aggiunse: «Dite a Trieste ch'io sento
+profondamente con tutta l'anima mia quello che è l'anima ed il pensiero
+di lei......» Nè potè continuare; che uno scoppio di pianto gli troncò
+in gola le parole. Allora tutti i presenti, fortemente scossi, e
+colti da un'infallibile tenerezza improvvisa, gli si fecero attorno,
+e prendendogli le mani, e accarezzandolo, e confortandolo con tronche
+parole, riuscirono finalmente a calmarne lo spirito. E per isvagarlo
+subito, le condussero all'aperto, a fare una passeggiata pe' viali e
+nel giardino, dove E' si riebbe ben presto, diventando sereno ed ilare
+ed espansivo.
+
+Ma quel che non avea potuto interamente esprimere a voce, volle dipoi
+consegnare allo scritto; e da Lizzano, il 27 giugno, inviò al Venezian
+la seguente lettera:
+
+«_Caro prof. Venezian, Ciò che Ella mi recò e mi disse da parte di
+Trieste, supera ogni possibilità di risposta. Sappia Trieste ch'io
+sento profondamente con tutta l'anima del mio pensiero quello che
+è l'anima ed il pensiero della magnanima città; ed anche quando io
+non sarò più, ciò che piangendo e fremendo scrissi spirerà, credo,
+a mantenere nell'Italia la fede a Trieste, la fedele di Roma. Giosue
+Carducci_».
+
+Era ben degno di questa forte terra di Romagna, dove dalla gioventù
+alla vecchiezza Egli ebbe vincoli così stretti d'affetto, e dove
+conchiuse, può dirsi, il suo canto; era ben degno di questa terra, la
+quale dette alla libertà ed alla patria il palpito dei cuori ed il fior
+delle vite, che qui si esprimesse la corrispondenza d'amorosi sensi fra
+Trieste e Colui che dell'Italia risorta fu la sintesi più gagliarda e
+completa.
+
+Oggi sulla facciata della solitaria e muta villa di Lizzano, ove tanta
+gloria, tanti affetti e tanta fedeltà si accolsero, una lapide modesta,
+muratavi e scoperta quasi di nascosto e senza pompe vane, ricorda
+semplicemente:
+
+«_Qui — tra i colli sereni — nella dolcezza della amicizia — cercò
+pace e ristoro alla grande anima — Giosue Carducci — dal 1897 al 1906
+— Silvia e Giuseppe Pasolini Zanelli — con memore cuore — 2 novembre
+1907_».
+
+  Faenza, novembre 1907.
+
+                                                     ANTONIO MESSERI.
+
+
+
+
+QUESTE LETTERE, PER ADEMPIMENTO DI DOVERE, PER TESTIMONIANZA DI CARA
+PROFONDA AMICIZIA.
+
+
+I.
+
+MADESIMO (CHIAVENNA), 18 LUGLIO 1897.
+
+
+I.[1]
+
+  _Signora contessa_,
+
+Grazie. Ricevei ieri la fotografia, bella molto.[2] Intanto dal
+Ministero di grazia e giustizia furono assegnate mille lire pe'
+restauri della chiesa di Polenta. Io, presso la vetta dello Spluga, a
+mille seicento su 'l livello del mare, poco posso fare.
+
+Certo, non cogliere timi, come l'ape d'Orazio, _circa nemus uvidique
+Tiburis ripas_:[3] ma tra venti, rupi e torrenti, rapisco a volo
+qualche strofe; e vedremo.[4]
+
+Io sto ora molto bene e non sono più zoppo. Tant'è: io non era fatto
+per la cattedra e l'accademia.
+
+Ossequio Lei, e La prego de' miei saluti memori al conte, al figlio,[5]
+all'avv. Trovanelli.[6]
+
+                                                               Dev.mo
+                                                     GIOSUE CARDUCCI.
+
+    _Alla gentildonna_
+      CONTESSA SILVIA PASOLINI
+                         CESENA.
+
+
+II.
+
+MADESIMO (SONDRIO), 12 SETTEMBRE 1897.
+
+
+II.[7]
+
+  _Signora contessa_,
+
+Ricevo qui le fotografie polentane in grande, molto belle. Grazie.
+
+Credo che il 15 prossimo, alla fine, sarà pubblicata nell'_Italia_ di
+Roma l'ode,[8] che sin dal giugno io aveva promesso al conte Gnoli.
+Pochi giorni dopo verrà fuori l'edizione Zanichelli, con la fotografia
+della chiesa, credo, e con quella del cipresso,[9] vorrei; a tutto
+benefizio de' restauri.
+
+Impossibile mi era mandarLe una trascrizione dell'ode, che alla gran
+bontà di Lei piacque desiderare: inchiostro, penne, carta impossibili.
+Dimani scendo a valle; lunedì sarò a Bologna: indi a Lei verrà un
+saggio mio calligrafico, che, non fo per vantarmi, sarà commendevole.
+Nella calligrafia (brutto vocabolo pedantesco, ma la cosa può essere
+buona) è il mio vero _bello scrivere_.
+
+Credo che Ella sarà con la madre Sua. La prego di riverirla per me. E
+salutando il conte e Pierino, a Lei bacio la mano.
+
+                                                               Dev.mo
+                                                     GIOSUE CARDUCCI.
+
+    _Alla n. signora_
+      CONTESSA SILVIA BARONI PASOLINI
+    (VICENZA) BASSANO.
+
+
+III.
+
+BOLOGNA, 12 GENNAIO 1898.
+
+
+III.[10]
+
+  _Signora contessa_,
+
+Meglio tardi che mai. Io sto benissimo: e col nuovo anno ho cominciato
+a bere della Sua canina,[11] che va anche meglio di me. Ho scritto
+oggi all'arciprete;[12] che mi mandò molte benedizioni e voci di sue
+preghiere a Dio, e una damigiana di sangiovese dalle sue mani educato
+presso la vetusta chiesa: bene educato da vero. Io lo assicuro che
+Zanichelli, fatti i conti a giorni, gli manderà del denaro; e lo esorto
+a riprendere i lavori, anche per aiuto de' poveri.[13] Intanto prego
+per mezzo di Lei il signor conte a far ricerca dei disegni e progetti
+presso l'Economato o al Ministero.
+
+Alla bella poetessa[14] non anche ho scritto: dimani l'altro. Anche
+da Bertinoro alto ridente il sindaco[15] mi scrisse graziose e nobili
+cose. E anche a lui risponderò. Ma il tempo mi è scarso a esser
+gentile. Quanto lavoro, io che pure vorrei non far nulla, e che anelo
+all'ozio sì come il cervo al fonte delle acque vive! Ozio in monti e in
+colli, pensando alla salute dell'anima mia.
+
+La prego di salutare per me la signora *. _Salutala in mio nome e dalle
+avviso_ (Dio mio, con la scusa di un verso del Tasso, mi trovo a dar
+_del tu_ a Lei: Contessa, voglia perdonarmi) che io sono avverso al
+ministro, il quale mi tornava a parlare di Roma, dove io non voglio
+fare il professore; e non voglio fare il professore più.[16]
+
+Bensì a Roma verrò su' primi di febbraio; ma non andrò in casa della
+sig. *; temo di essere incorso nell'ira sua. Senta un po' Lei. Signora
+contessa, La riverisco devotamente, e La prego di ricordarmi al conte e
+a Pierino.
+
+                                                                  Suo
+                                                     GIOSUE CARDUCCI.
+
+      _Alla nobile signora_
+    CONTESSA SILVIA PASOLINI BARONI
+      _Via Venti Settembre 35_
+                             ROMA.
+
+
+IV.
+
+BOLOGNA, 19 GIUGNO 1902.
+
+
+IV.[17]
+
+  _Cara signora contessa_,
+
+Saluti, ossequî, ricordi affettuosi.
+
+EccoLe la lettera del Ierace.[18] Nel XII, _Confessioni e Battaglie_,
+manifestai la mia recisa antipatia e inettitudine alla piccola
+letteratura di _commissione e decorativa_.[19] Nè giova ricordare lo
+scritto breve e doloroso per Pietro Pasolini. Lì fu una grande sventura
+domestica che parlò nel cuore, un giovine nel fior dell'età che io
+avevo trattato famigliarmente, che mi era veduto crescer bello e lieto
+in conspetto....[20]
+
+Non feci che esprimere quello che immaginai dover essere, senza frasi,
+il sentimento de' genitori.
+
+Qui è un monumento reale, da collocarsi in luogo storico, con
+intervento di ministri, squadre etc. Non son fatto a simili scene;
+ammiro e ascolto e leggo rapito; ma io non so dir _niente_.
+
+Ella significhi meglio che io abbia detto, e faccia sentire a Ierace
+quanto mi duole il dire di no. Ma!
+
+                                                           Suo aff.mo
+                                                     GIOSUE CARDUCCI.
+
+      _Alla n. d. contessa_
+    SILVIA PASOLINI ZANELLI BARONI
+                       FAENZA.
+
+
+V.
+
+MADESIMO, 27 LUGLIO 1902.
+
+
+V.[21]
+
+  _Signora contessa_,
+
+Grazie, Ella sa di che, e quanto effuse dal cuore Le pervengono.
+
+Oggi compio sessantasette anni. Le bambine dello stabilimento mi hanno
+presentato un magnifico mazzo di fiori alpestri. Due bambine, che a
+pena sciolgono i passi, mi hanno dato dal seno delle loro madri due
+mazzolini di _edelweiss_. Mi giunge dal _Giornale d'Italia_ un ricordo
+di Ugo Pesci, che mi ha veramente commosso. Lo legga, signora contessa,
+nel numero del ventinove giugno.
+
+E nella rocca medicea passi Ella giorni felici, confortata dall'arte
+divina, che non ha segreti per Lei.
+
+La musica è una grande consolatrice, con le sue voci profonde, tenere
+e possenti, che non si sa d'onde vengano. Forse è la rivelatrice della
+grandezza arcana di questa nostra povera natura ed anima.
+
+                                                     GIOSUE CARDUCCI.
+
+    _Alla signora contessa_
+      SILVIA B. PASOLINI
+                 DOVADOLA.
+
+
+VI.
+
+BOLOGNA, 8 LUGLIO 1904.
+
+
+VI.[22]
+
+  _Cara contessa Silvia_,
+
+Dall'antro di Zanichelli, molto migliore della sua fama, di quella cioè
+che gli ha fatto Ella, Le scrivo per mandarLe i miei saluti e i miei
+congedi.
+
+Io domenica, cioè doman l'altro, parto per Madesimo; e lassù spero che
+le ninfe serene delle Alpi mi avvolgeranno fra i loro grandi veli. A
+Lei lascio le ninfette degli Appennini, scalze, stracciate e sudanti
+ad ogni passo che muovono per la sassosa via. Se non che, a quelle
+ninfuccie Ella comanda e presiede come fata bianca, e come sovrana
+e partecipe della multiforme armonia; e le fa apparire e atteggiarsi
+come meglio Le piaccia.[23] A settembre, quando l'aere sarà ammansato,
+io tornerò a Lei prima di tutto, e poi alla bellissima e dolcemente
+indimenticabile Lizzano: Lizzano sola degna di non essere ricordata
+con le ninfe appenniniche, sola degna di essere ricordata con desiderio
+anche di sul seno austero delle ninfe alpine.
+
+Faccia, La prego, i miei ossequî al conte; faccia a sè stessa i miei
+saluti con tutta l'effusione.
+
+                                                         Suo di cuore
+                                                     GIOSUE CARDUCCI.
+
+      _Alla nobil signora_
+    CONTESSA SILVIA PASOLINI-ZANELLI
+                              FAENZA.
+
+
+VII.
+
+VILLA ADELE, MADESIMO, 24 AGOSTO 1904.
+
+
+VII.[24]
+
+  _Cara contessa Silvia_,
+
+Questa mia lettera spera di raggiungerLa sulle rive della Brenta,
+e incomincia dal mandare memori saluti e augurî di bene stare alla
+contessa Marina,[25] la cui immagine mi sta scolpita nel cuore.
+
+Quassù abbiamo avuto purtroppo caldo, che ora è compensato da cinque
+gradi di freddo e da un vento indiavolato. Questi alti e bassi senza
+misura mi fanno ricordare con molto rimpianto e con grande desiderio
+Lizzano, dove il cielo, la terra, l'aria ricordano la temperatura e i
+bei paesaggi dell'Ariosto, e dove sono fate e ninfe, e dee vere e vive
+«che adornan sempre le felici rive», e mettono in fuga con i lieti
+e onesti favellari la malinconia, se ella si attenta di avvicinarsi
+all'anima.
+
+Dunque Lizzano anche nel disordine della natura serba le notti fresche
+e piene di armonia, a cui il lido marino manda il lume dei suoi fari, e
+gli effluvii della sua marina?
+
+Ahimè, bel paese è Lizzano, e richiama i cuori e le fantasie con molti
+ricordi. Io spero di rivederlo ben presto, e riprendervi, giacchè la
+prima signora lo concede, i segni e poteri della mia sovranità.
+
+Alla qual signora mando i miei omaggi, e assentimenti alle ninfuccie e
+agli Egipani.
+
+La saluto di mia mano.
+
+                                                     GIOSUE CARDUCCI.
+
+      _Alla nobil donna_
+    CONTESSA SILVIA PASOLINI BARONI
+                              BASSANO.
+
+
+VIII.
+
+VILLA ADELE, MADESIMO, 20 LUGLIO 1905.
+
+
+VIII.[26]
+
+  _Cara contessa Silvia_,
+
+Oggi il cielo, la terra e quasi l'anima mia sorridono un ineffabile
+sorriso[27] di primavera; e vogliono che io Le scriva.
+
+Ma che dirLe che risponda a quel che mi suona dentro? Nulla più di
+quello che Ella sa.
+
+Non però che sia sempre così; ieri, e poco prima, la tempesta era nel
+cuor mio. Vedevo tutto nero; e il non poter camminare come prima mi
+dava la morte nel cuore.
+
+Oggi il mio spirito si è rialzato, e profitto del tempo benigno per
+mandarLe un saluto dall'anima.
+
+L'Elvira[28] ed io non facciamo che pensare e parlare di Lei; e il
+sorriso e lo spirito soave[29] della fata bianca è il principio e il
+termine d'ogni nostro pensiero.
+
+InvitarLa a venir quassù sarebbe oggi un'illusione, perchè è
+letteralmente tutto pieno; ma appena si potrà, io Le scriverò
+fulmineamente; ed Ella verrà, perchè senza di Lei non vi è luogo bello,
+ed Ella ha il potere, con la parola e co'l sorriso, di far più bello
+l'aspetto delle cose.
+
+Dove è ora? Dovunque Ella sia, il mio cuore è con Lei.
+
+Mi ricordi a cui crede che il mio ricordare piaccia. A Lei credo prima
+che a tutti.
+
+                                                     GIOSUE CARDUCCI.
+
+    _Alla n. d. contessa_
+      SILVIA BARONI PASOLINI
+                  FAENZA.
+
+
+IX. MADESIMO, 9 AGOSTO 1905.
+
+
+IX.[30]
+
+  _Carissima contessa_,
+
+Se mi sarà dato di finire questa mia avanti che annotti, essa Le verrà
+sollecita annunziatrice di una mia gita (quarta o quinta) allo Splugen.
+
+Il cielo era una benedizione di Dio sulla natura, e la terra un
+rendimento di grazie, e l'anima mia pacata nella pacifica armonia dei
+versi virgiliani.
+
+Quanto e come soavemente mi facevano pensare quei versi, su quei monti!
+Ma verso sera mutò il paesaggio e l'anima. Le basti ch'io non ho mai
+chiuso un occhio la notte, e da ciò indovini lo stato dell'anima mia.
+Ciò non ostante stamattina, grazie a Dio e a Virgilio, ero di nuovo
+in pace con la natura e con me. Quanta pietà nelle parole dei Troiani
+sbattuti dal naufragio!
+
+    «Dî tibi, si qua pios respectant numina, si quid
+    Usquam justitia est, et mens sibi conscia recti,
+    Praemia digna ferant. Quae te tam laeta tulerunt
+    Saecula? qui tanti talem genuere parentes?»[31]
+
+Glieli ho scritti in latino, perchè Ella si avvezzi a leggerli e a
+ripeterli latinamente. Nessuno ha scritto versi latini così belli come
+Virgilio: un tempo pensavo che Orazio, ma ora no.
+
+Io La raccomando ai versi virgiliani che La accarezzino con la loro
+armonia, e Le facciano dimenticare la trista dissonanza delle cose.
+
+E ora non ce n'entra più. È contento il Geròla della mia epistola
+cretense?[32] Tanto meglio, benchè io non era competente giudice; ma mi
+inspirò la pietà della gente veneta, così fida alle memorie d'Italia: e
+con ciò, e con i saluti dell'Elvira[33] e con i miei saluti, La lascio
+nel pensiero di Virgilio e nel mio.
+
+                                                     GIOSUE CARDUCCI.
+
+Ricorderò i ricordati da Lei allo Zanichelli; Ella mi ricordi
+strettamente ed affettuosamente a Sua madre.
+
+      _Alla nobil signora_
+    LA CONTESSA SILVIA PASOLINI-ZANELLI
+                             BASSANO VENETO.
+
+
+X.
+
+BOLOGNA, 14 OTTOBRE 1905.
+
+
+X.[34]
+
+  _Molto amata contessa Silvia_,
+
+Un gran dire della mia cera. Un miracolo: portenti. Ma intanto co'l
+pretesto di rendermi la forza e l'attività d'un tempo, il dottore
+Boschi[35] mi relega a due o tre giorni di letto forzato: e viene
+troppo spesso a visitarmi. Io non ho cagione di lamentarmi; ma pur
+troppo mi sento debole debole debole, come gli entusiasti della mia
+salute pur dicono. Parliamo d'altro.
+
+Mi è ricapitato sott'occhio un ricordo a me carissimo: un album
+della città di Faenza, con le firme dei cittadini, e con inscrizioni
+significantissime. Quanti nomi a me cari di uomini animosi e valenti e
+di gentili donne: che belle ore mi ricordavano!
+
+In capo a tutti mi salutò e mi parlò al cuore il nome Vostro,
+nobilissima Silvia, «_Sylvia dulcis_». E mi destò la speranza di
+vederVi presto.
+
+    «Instar veris enim vultus ubi tuus
+    affulsit populo, gratior it dies
+    et soles melius nitent».[36]
+
+Addio. Ave et salve.
+
+                                                     GIOSUE CARDUCCI.
+
+    _Alla n. d. sig.ra contessa_
+      SILVIA PASOLINI-ZANELLI
+                   CESENA.
+
+
+XI.
+
+BOLOGNA, 19 NOVEMBRE 1905.
+
+
+XI.[37]
+
+  _Contessa Silvia molto amata_,
+
+Non posso far a meno di esser triste oggigiorno. È morto il mio vero
+amico Giambattista Gandino. Fu il primo che conobbi in Bologna nel
+1860.[38] Quanti anni, quanti dolori, e quanta fedeltà! Il latino e
+l'amicizia, due immutabili passioni dell'animo suo. Dall'amicizia sua
+non mi venne mai un turbamento; fu il re del latino puro: questa la sua
+vita nel rispetto mio. Peccato che Voi non l'abbiate conosciuto!
+
+Ecco la mutazione per il _Vere Novo_.[39] Mutato nel verso secondo
+così: «_Sorride e chiama_»;[40] il verso sesto dica così: «_E guarda
+gli occhi, candida Silvia, tuoi_». Così tutto va bene; immagine, metro
+e verità.
+
+Oggi è una giornata orribile. Il barometro si abbassa fino all'anima
+e proibisce di pensare. Spero che costassù in montagna l'aria sia più
+pura: qui pesa sul capo e sul cuore. Ahimè! oggi sto male. Passate i
+miei saluti affettuosi alla signora Marina e al conte, e addio.
+
+Salve et vale.
+
+                                                     GIOSUE CARDUCCI.
+
+      _Alla signora_
+    CONTESSA SILVIA PASOLINI-ZANELLI
+                           BASSANO VENETO.
+
+
+XII.
+
+BOLOGNA, 28 NOVEMBRE 1905.
+
+
+XII.[41]
+
+  _Signora contessa Silvia molto amata_,
+
+Questa volta voglio parlarVi di studî. Ho comperato due libri
+nuovissimi a un tratto: la _Congiura di Catilina_, e.... indovinate?...
+_Elvira_, amore di Lamartine.
+
+L'Elvira a me e al mio compartecipe[42] non fa la figura di bellezza
+che rinnovò l'arte moderna: anzi!... Ma ciò non toglie che la poesia
+da lei inspirata non sia la più bella poesia francese. Non mai quella
+lingua, che par negata alla poesia, ebbe inspirazioni così di cuore
+come _Le Lac_, che certo è la più bella poesia sentimentale moderna.
+Non mai inspirò così profondamente un lamento così mesto e così sentito
+come nel _Crucifix_. Tutto è finito: poesia, inspirazione e sentimento.
+Ma ciò non impedisce che sia stato un movimento profondamente
+sentito.[43]
+
+La _Conjuration de Catilina_ di G. Boissier è storia romana: sempre
+vera, sempre nuova e sempre bella.
+
+E ora d'altro. Cioè del vostro piede, che deve essere affatto guarito
+e padrone di sè: Voi non me ne dite abbastanza, ma io immagino che sia
+così; vi sento intonata in altra guisa.
+
+Salutatemi la Vostra piccola amica tedesca[44] e la vostra gran madre
+contessa Marina, le quali mi hanno messo in testa questa leggiadra
+notizia. E Voi pregate che co' miei malanni mi seguiti sempre il buon
+umore che ho oggi, il quale in gran parte, anzi tutto, mi viene da Voi.
+
+Grazie. Salve et vale.
+
+                                                     GIOSUE CARDUCCI.
+
+      _Alla signora_
+    CONTESSA SILVIA PASOLINI-ZANELLI
+                            BASSANO VENETO.
+
+
+XIII.
+
+BOLOGNA, 29 NOVEMBRE 1905.
+
+
+XIII.[45]
+
+  _Signora contessa Silvia molto amata_,
+
+Una gentile e pia necessità (che tale parrà anche a Voi) m'impone una
+impronta sollecitazione anche a Voi.
+
+La società scolastica che in Graz s'intitola del mio nome, mi chiede
+un mio ritratto per collocarlo in luogo di onore. Fosse una solita
+domanda, e de' soliti, non risponderei. Ma qui bisogna che mi rivolga
+a Voi, perchè m'impetriate dal gentile artista di Cesena[46] una
+copia di quella che a me pare bellissima (e so che pare anche a Voi)
+fotografia. Spesa qualunque siasi, a conto mio. Vi prego di mandar qui
+per la firma necessaria. Figuratevi che devo andare in mezzo a Mazzini
+e a Garibaldi: ahi, quanto e immeritato onore! Fate Voi almeno che io
+figuri bene: io Vi dovrò anche questo. Non Vi dico che mi perdoniate;
+troppo Vi conosco: amatemi un poco di più.
+
+                                                               Vostro
+                                                     GIOSUE CARDUCCI.
+
+      _Alla signora_
+    CONTESSA SILVIA PASOLINI-ZANELLI
+                            BASSANO VENETO.
+
+  A questa lettera il Carducci unì un articolo, ritagliato
+  dall'_Avvenire d'Italia_, giornale bolognese, intitolato
+  «_Traveggole socialiste intorno a Giosue Carducci_», nel quale
+  è detto che l'_Avanti_ riporta dall'_Asino_: ... «che il poeta
+  è ridotto quasi ad uno stato d'incoscienza, e che i preti
+  approfittano del suo stato per invaderne la casa in attesa di
+  confessarlo moribondo...». In margine a tale articolo il poeta
+  dettò le parole seguenti:
+
+E dire che son per riprendere i miei lavori, perchè il Boschi è
+ammirato della mia salute! G. C.
+
+
+XIV.
+
+BOLOGNA, 2 DECEMBRE 1905.
+
+
+XIV.[47]
+
+  _Signora contessa molto amata_,
+
+Già fin da ieri il Bacchi della Lega deve aver significato al signor
+conte la indegnazione mia per quello che il giornale aveva scritto,
+a proposito di cose mie, su Voi, etc.[48] E come Voi usate dire, la
+_pitantana_[49] mi aveva colto sul serio; e chi sa che cosa avrei
+scritto a quei cialtroni, degno di loro e dell'ira mia; se poi
+uomini di senno, e voglio contare specialmente in questa categoria
+il Bacchilega, non mi avessero persuaso che erano parole spese
+inutilmente, e che nessuno badava a quel che era scritto in quel
+giornale, e che quella turba di mascalzoni non vale il
+
+    «. . . . . fango che mi lorda i piedi».[50]
+
+Vili, dire che Voi siete mossa da _uno scopo occulto di tenerezze
+devote_, per un'onorificenza di Corte! Io non conosco donna superiore
+a Voi nel disprezzo di simili sciocchezze. E parliamo, alla fine,
+d'altro.
+
+Grazie di quello che farete con Casalboni;[51] grazie per me e per
+gli amici d'oltre i confini; specialmente per essi, che me potrebbero
+lasciare da parte. Dunque sarà una bella fotografia, che farà onore al
+mio ceffo; e, fuor di scherzo, all'arte cesenatica. Grazie, grazie,
+grazie. Onorate Voi quella degna Cesena, che tanto mi favorisce;
+onoratela e ringraziatela.
+
+Voi mi dite, scrivetemi e consolatemi di Voi. Se per consolarVi vi può
+piacere che io dal medico Boschi sia trovato sempre più valido, ciò Vi
+consoli: quanto a me, io altrove cerco la mia consolazione, e Voi ben
+lo sapete. A proposito: come va il vostro piede? Sempre meglio, non
+è vero? Io e i vostri migliori amici sempre attendiamo che il conte
+vi riconduca alle nostre parti, ma rispettiamo i sentimenti di vostra
+madre, alla quale affettuosamente mi ricordo.
+
+Addio. Lasciate la _pitantana_, vocabolo che non piace punto a
+Bacchilega, nè a me. Salve et vale.
+
+                                                     GIOSUE CARDUCCI.
+
+    _Alla signora contessa_
+      SILVIA PASOLINI-ZANELLI
+             BASSANO VENETO.
+
+
+XV.
+
+BOLOGNA, 5 DECEMBRE 1905.
+
+
+XV.[52]
+
+  _Signora contessa Silvia molto amata_,
+
+Oggi spedisco a Graz il mio ritratto, da accompagnarsi a quello dei
+veramente illustri e sacri:[53] ho scritto ai giovani che l'opera è di
+artista _italiano_, Casalboni; che vien loro in dono da gentildonna
+_italiana_, Silvia etc. Così il dono sarà più accetto e più gentile.
+Questo voglio che sappiate subito tanto Voi, che l'artista.
+
+Ahimè! che brutta giornata! involuta di tenebre e di nebbia, quale da
+ormai due mesi è ridotta l'anima mia.
+
+    «Ma ci fu dunque un giorno
+    Su questa terra il sole?
+    Ci fur rose e vïole,
+    luce, sorriso, ardor?
+
+    «Ma ci fu dunque un giorno
+    la dolce giovinezza,
+    la gloria e la bellezza.
+    Fede, virtude, amor?»[54]
+
+Pare che ci fossero; almeno io le ho cantate. Nel _tedio invernale_
+presente non pare davvero che ci siano. Sbaglio: sono nell'anima
+vostra.
+
+Salve et ave.
+
+                                                     GIOSUE CARDUCCI.
+
+    _Alla contessa_
+      SILVIA PASOLINI-ZANELLI.
+             BASSANO VENETO.
+
+
+XVI.
+
+BOLOGNA, 23 DECEMBRE 1905.
+
+
+XVI.[55]
+
+  _Signora contessa Silvia molto amata_,
+
+Voglio fare le mie confessioni; cioè vo' dir cose che, dopo morto,
+tolgano ogni dubbio del come io pensassi e credessi.
+
+Cominciamo dal principio; da Dio, o da chi è tenuto Dio.
+
+Poco più che ragazzo cominciai un inno a Cristo, così:
+
+    «Io non so chi tu sia, nè per che modo
+    Venuto se' quaggiù.....»
+
+applicando a Cristo i versi che Dante poneva in bocca ad Ugolino.[56]
+
+Uomo fatto, rincarai con parole mie proprie quel che avevo accennato di
+sbieco, segnatamente nella _Chiesa gotica_:
+
+    «O inaccessibile re degli spiriti,
+    tuoi templi il sole escludono.
+    Cruciato martire tu cruci gli uomini,
+    tu di tristizia l'aër contamini»;[57]
+
+e nelle _Fonti del Clitumno_:
+
+      «. . . . . . . . . . un Galileo
+    di rosse chiome il Campidoglio ascese,
+    gittolle in braccio una sua croce e disse:
+    — Portala, e servi —».[58]
+
+E certo sono cose forti e indimenticabili. Confesso che mi lasciai
+trasportare dal principio romano, in me ardentissimo: e fu troppo. Ma
+quasi al tempo stesso soavi cose pensai e scrissi di Cristo:
+
+    «Oh, allor che del Giordano ai freschi rivi
+    traea le turbe una gentil virtù etc.»[59]
+
+Resta che ogni qual volta fui tratto a declamare contro Cristo, fu per
+odio ai preti; ogni volta che di Cristo pensai libero e sciolto, fu mio
+sentimento intimo. Ciò non vuol dire ch'io rinneghi quel che ho fatto:
+quel che scrissi, scrissi; e la divinità di Cristo non ammetto. Ma
+certo alcune espressioni son troppo; ed io, senza adorare la divinità
+di Cristo, mi inchino al gran martire umano.
+
+Questo voglio che si sappia, e lo scrivo a Voi, perchè capace di dirlo
+apertamente.
+
+Vedete che m'è venuta voglia di scrivere, oggi.
+
+                                                            Il vostro
+                                                     GIOSUE CARDUCCI.
+
+Pensieri della vigilia di Natale, che ho sempre avuto, e da tenerne
+conto.
+
+                                                                G. C.
+
+    _Alla contessa_
+      SILVIA PASOLINI-ZANELLI
+             FAENZA.
+
+
+XVII.
+
+BOLOGNA, 27 DECEMBRE 1905.
+
+
+XVII.[60]
+
+  _Signora contessa Silvia molto amata,_
+
+Che bel passeggiare, arridendo il variato sole di primavera, su per
+i colli dell'amenissimo Lizzano; o anche discendendo verso il piano!
+Affacciandosi questa visione agli occhi e all'animo conturbati da
+questa nebbia brumale, più triste è il tristissimo decembre. Torneremo
+mai sui colli di Lizzano? O al bellissimo Bertinoro? Io per me dubito.
+
+Mi contenterei per ora, e anche per allora, di ritrovarmi nella bella
+saletta di Faenza, dove mi guardano tanti visi ch'io non conosco,
+e pure amo; o nel salone, dove tante cose possono essere cantate
+e suonate con musica melodia. Tacendo, nel mio silenzio mi pare di
+ascoltare e d'intendere. Ahimè! Inteso bene che tutto sarebbe allegrato
+e fatto vivo dall'aspetto e partecipazione della signora. Voi dareste
+la vita vera a quell'ignoto ch'io medito, che io sento, e che potrei
+anche rappresentare.
+
+Questa divagazione malinconica mi fa meno uggiosa la triste nebbia.
+Se Voi foste qui e parlaste, svanirebbe affatto. Ma io voglio venire a
+Faenza.
+
+Ricordatemi il nome della signora che mi mandò il salmone; l'americana
+famosa che parla e scrive così bene l'italiano.[61] Bisogna che le
+risponda.
+
+Addio, addio; con l'anima profondamente contristata, in mezzo alla
+gioia apparente, dalla morte di Severino Ferrari:[62] grande ferita nel
+mio cuore!
+
+Addio, cara signora ed amica dolcissima. Voi mi intendete.
+
+                                                            Il vostro
+                                                     GIOSUE CARDUCCI.
+
+    _Alla signora contessa_
+      SILVIA PASOLINI-ZANELLI.
+             FAENZA.
+
+
+XVIII.
+
+BOLOGNA, 11 APRILE 1906.
+
+
+XVIII.[63]
+
+  _Signora contessa Silvia molto amata,_
+
+Siete tornata a Faenza, nella dolce dimora in cui vi ho sempre vista
+io. Quella dimora è sacra per me; e deve essere anche per Voi. Quante
+rimembranze soavi vi rifioriscono nell'anima! Se avessi lo stile
+prezioso, oh quanto vi rifiorirei! Ma l'affettuoso è stile molto
+più nobile del prezioso, e con questo seguito a scrivere. Invano
+Voi fareste opera di chiamarmi alla preziosità. «Io sento e dico e
+rappresento il vero». Oh che bel verso! «_Quidquid conabar dicere,
+versus erat_». Così avveniva al fiorito Ovidio:[64] ma l'intima
+eloquenza del cuore commosso non era con lui, nè era da lui. Non vorrei
+fargli torto, se per lui mi sovvenissi i Marini e l'adorato D'Annunzio.
+Per quanto adorato? Perchè adorato? E come adorato? Problemi a cui
+sarebbe facile rispondere, se io avessi voglia di rompermi il capo
+con la poesia moderna. E già! V'è poesia moderna? E ciò che porta quel
+nome, lo merita? Io più che invecchio, più penso che no. E forse è una
+malinconia della vecchiaia.
+
+Pensateci e rispondetemi. EccoVi dato l'argomento a una bella lettera.
+La quale, e tutto quello che viene da Voi, io aspetto con desiderio e
+affetto infinito.
+
+Intanto Vi saluto.
+
+                                                               Vostro
+                                                     GIOSUE CARDUCCI.
+
+    _Alla signora contessa_
+      SILVIA PASOLINI-ZANELLI
+             FAENZA.
+
+
+
+
+APPENDICE
+
+
+  _Quest'Appendice contiene_:
+
+1º _Una lettera con la quale Giuseppe Torquato Gargani accompagnava nel
+1856 a don Luigi Bolognini in Faenza il dono della sua_ dicerìa: «Di
+Braccio Bracci e degli altri poeti odiernissimi», _stampata a spese
+degli_ «amici pedanti». _Questa lettera, inedita e gentilmente a noi
+comunicata dagli eredi della famiglia Bolognini, è un'eco così viva e
+sincera delle prime lotte letterarie del Carducci, alle quali abbiamo
+accennato nella_ «Prefazione», _che ci è parso prezzo dell'opera non
+defraudarne il lettore._
+
+2º _Una commovente e preziosa notizia sui soggiorni del Carducci a
+Madesimo, nell'agosto del 1904 e del 1905, inviataci con somma cortesia
+dall'illustre prof. Flaminio Pellegrini, della r. Università di Genova;
+al quale ci è caro di porgere pubblicamente i più vivi ringraziamenti._
+
+
+GIUSEPPE TORQUATO GARGANI A DON LUIGI BOLOGNINI, IN FAENZA.
+
+
+  _Mio caro Gigi,_
+
+È troppo tempo che non ho tue nuove da te; fa' di scrivere come prima
+potrai. Io sto benissimo, e sento la vita ora che sono in guerra con
+tutti i poetini e prosatorucci di Firenze. Ti mando con questa una
+mia dicerìa: hoc fonte derivata clades. È una canzonatura da cima
+a fondo, che ha fatto rider me, scrivendola; e molti dotti davvero,
+leggendola. La leggerai anche tu, e daraimene il parer tuo. La darai
+a don Lanzoni[65] e al Minardi,[66] i quali carissimamente saluto.
+Oh, se sentissi cosa dicon di me questi giornali infranciosati!
+Credo d'aver fatto la bocca larghissima a riderne, e figurati che han
+pubblicato ch'io sono impazzato e messo all'ospedale, e che settimana
+per settimana daran le mie nuove alla gente. Perdio! l'è una critica da
+fare i capelli bianchi. E per di più han citato minchionando due versi
+per miei, i quali io non scrissi mai: bravi i birbanti b.....! A me
+par d'essere altr'uomo, e son contento che la dicerìa abbia fatto quel
+che doveva tare, e gongolo delle fiacche furie e dell'escandescenze
+sguaiate di cotesti pigmei, i quali han fatto veder chiaro che li
+ho arrivati nel vivo. Per le vie è un domandare: è quello l'autore
+della dicerìa? e chi compate, chi gabba, chi guarda in cagnesco, chi
+sogghigna, chi loda: ed io rido di tutti. Così è, mio caro Gigi; io
+quietissimo e umilissimo omiciattolo ho messo sossopra la repubblica
+letteraria in Toscana e fors'anche fuori. Gli amici, che a loro
+spese hanno stampato il mio scritto, si sono riuniti in una specie
+di accademia,[67] e faranno battaglia a corpo morto contro tutte le
+romanticherie e tutti i capricci infranciosati, inglesati, intedescati:
+son pochi, ma hanno fegato e lombi italianissimi. Era tanto che costoro
+facevano i demagoghi: anche la pazienza ha un confine, e bisognava che
+qualcuno salvasse l'antica fama del senno fiorentino messa in terra da
+questi m.... L'abbiamo fatto noi; non benissimo, per manco di sapere;
+ma con il calore di giovani amantissimi dalla maestosa letteratura
+italiana: la volontà scusi la debolezza della natura. Tu scrivi e
+seguita ad amare il tuo fratelluccio _impazzato_. Saluterai la gentile
+signora contessa Pasolini[68] e il signor conte.[69] Se credi bene,
+fa' leggere la dicerìa al conte Antonio[70] e al conte Francesco,[71]
+a' quali ricorderai la mia servitù. Se conosci o a Faenza o a Forlì o
+a Bologna qualche buon letterato, dillo, che glie la manderemo, perchè
+desideriamo che giri. Ho veduto Ghinassi,[72] c'ora è in Livorno.
+Ricordami ai buoni Farina,[73] scusandomi se non scrivo per essere
+occupatissimo in lavori e battaglie. A settembre (se non mutan le
+cose) vo con una signora maestro per sei anni a Montegemoli, presso a
+Volterra.[74] Ti saluto e ti abbraccio.
+
+  20 luglio 1856.
+
+                                                       G. T. GARGANI.
+
+
+SU 'L CARDUCCI A MADESIMO NELL'AGOSTO DEGLI ANNI 1904 E 1905.
+
+
+A Madesimo, sullo Spluga, nel mese d'agosto del 1904 e del successivo
+anno 1905, ebbi l'inesprimibile conforto di ritrovarmi a lungo col
+Carducci, che mi fu maestro a Bologna dal 1887 al 1890, e che, da
+allora, m'onorò sempre d'affettuosa benevolenza.
+
+L'amenissimo soggiorno, nel 1904, giovò sensibilmente alla stanca sua
+fibra. Sui primi del mese, già ritemprato dalla breve permanenza, potè
+riprendere persino le sue gite mattutine, lungo il sentiero alpestre
+della Motta, tra il folto degli abeti, fino a un rustico sedile d'onde
+tutto si domina il magnifico paesaggio.
+
+Lassù con intensa commozione lo udii recitare a memoria passi della
+_Divina Commedia_, odi di Orazio: e, notevole a dirsi, la voce del
+Poeta, d'ordinario sì impedita dal male, riprendeva nella recita dei
+versi la franchezza, l'intonazione indimenticabile dei giorni migliori!
+
+In quello scorcio d'estate non solo mi dettava senza pena le sue
+corrispondenze, ma rivide bozze di stampa, e con mano malferma reggeva
+Egli stesso la matita, per prendere numerosi appunti leggibili quasi
+solo da Lui.
+
+L'anno appresso, purtroppo, l'infermità aveva fatto progressi
+desolanti. Brevissime passeggiate, quasi sempre malinconiche e
+silenziose: agli stentati colloqui alternava lunghe letture di
+Virgilio, interrotte da periodi tristi di raccoglimento interiore. Ma
+il suo grande spirito, posso attestarlo con piena sicurezza, era vigile
+sempre, e le ricordanze si mantenevano prodigiosamente tenaci, sia che
+rievocasse con una parola scultoria uomini e cose, sia che tornasse con
+freschezza mirabile a citazioni erudite, o che lo spunto d'un verso gli
+richiamasse poesie proprie ed altrui.
+
+In presenza d'estranei, ormai, evitava quasi del tutto di parlare.
+Invece proseguì a dettarmi non di rado lunghe lettere degne della
+grande arte sua, senza una pausa, senza correzioni, senz'altra fatica
+salvo quella di vincere la difficoltà vieppiù grave della pronunzia
+malfida.
+
+Ricordo l'estremo saluto accorato a Giuseppe Chiarini, in una lettera
+commoventissima del giorno 11 agosto 1905, pubblicata nella _Nuova
+Antologia_ (1º aprile 1907, p. 390). Ricordo che si valse ancora
+altra volta, come aveva già fatto nell'anno precedente, della mia
+mano _discreta ed amica_ — così degnavasi di chiamarla — per mandar
+novella de' suoi pensieri dolenti alla contessa Pasolini, inclita
+Donna consolatrice. Ricordo.... e con un sussulto nell'anima mi veggo
+d'accanto la bianca testa pensosa del Poeta, nella vasta camera tutta
+luce di Villa Adele, ove Lo baciai vivo per l'ultima volta!
+
+                                                 FLAMINIO PELLEGRINI.
+
+
+
+
+INDICE
+
+
+  PREFAZIONE. _Giosue Carducci e la Romagna_           Pag. 1
+
+  LETTERE DI GIOSUE CARDUCCI.
+
+  LETTERA  I      Madesimo, 18 luglio 1897              »  79
+     »     II     Madesimo, 12 settembre 1897           »  83
+     »     III    Bologna, 12 gennaio 1898              »  87
+     »     IV     Bologna, 19 giugno 1902               »  93
+     »     V      Madesimo, 27 luglio 1902              »  97
+     »     VI     Bologna, 8 luglio 1904                » 101
+     »     VII    Madesimo, 24 agosto 1904              » 105
+     »     VIII   Madesimo, 20 luglio 1905              » 109
+     »     IX     Madesimo, 9 agosto 1905               » 113
+     »     X      Bologna, 14 ottobre 1905              » 119
+     »     XI     Bologna, 19 novembre 1905             » 123
+     »     XII    Bologna, 28 novembre 1905             » 129
+     »     XIII   Bologna, 29 novembre 1905             » 135
+     »     XIV    Bologna, 2 decembre 1905              » 139
+     »     XV     Bologna, 5 decembre 1905              » 145
+     »     XVI    Bologna, 25 decembre 1905             » 149
+     »     XVII   Bologna, 27 decembre 1905             » 155
+     »     XVIII  Bologna, 11 aprile 1906               » 161
+
+  APPENDICE.
+
+  Giuseppe Torquato Gargani a don Luigi Bolognini
+    in Faenza                                           » 169
+  Su 'l Carducci a Madesimo nell'agosto degli anni
+    1904 e 1905                                         » 175
+
+
+                             ERRATA-CORRIGE
+
+A pag. 33, linea 10 — Invece di «_maggio 1907_» leggasi «maggio 1897»
+
+     _Finito di stampare il 12 decembre 1907_ dall'editore LICINIO
+            CAPPELLI, previo accordo con la DITTA ZANICHELLI
+         di Bologna, _rilevataria del diritto di pubblicazione
+                     dell'epistolario carducciano._
+
+
+
+
+NOTE:
+
+
+[1] È interamente di mano del Poeta.
+
+[2] Trattasi della fotografia della chiesa di Polenta, fatta dal
+Casalboni di Cesena.
+
+[3] Orazio, _Carmina_, lib. IV, ode seconda, 30-31.
+
+[4] Proprio allora il Poeta stava meditando e componendo la
+meravigliosa ode «_Alla chiesa di Polenta_».
+
+[5] È il conte Pier Scipione Pasolini Zanelli, immaturamente rapito
+all'affetto de' genitori e del Carducci il 28 decembre 1898.
+
+[6] Nazzareno Trovanelli di Cesena, «buon cittadino e buon letterato
+— scrive il Carducci nelle note alle _Rime e Ritmi_, _Poesie_, p.
+1034 — di cui sono notevoli parecchie traduzioni dal Tennyson e dal
+Longfellow».
+
+[7] È interamente di mano del Poeta.
+
+[8] L'ode «_Alla chiesa di Polenta_».
+
+[9] Il _cipresso di Francesca_, che ancora non era stato colpito dal
+fulmine.
+
+[10] È interamente di mano del Poeta.
+
+[11] È una specie di vino nero romagnolo.
+
+[12] Don Luigi Zattini Brusaporci, allora arciprete della chiesa di
+Polenta, ed oggidì di quella di Bertinoro.
+
+[13] Sono i lavori de' secondo periodo dei restauri della storica
+chiesa.
+
+[14] È la contessa Vittoria Aganoor-Pompily.
+
+[15] Augusto Farini di Ravenna, uomo d'ingegno molto e di molto cuore,
+morto nel 1906.
+
+[16] Su le ragioni che indussero il Carducci a rifiutare la cattedra
+dantesca, instituita nell'Università di Roma con legge 3 luglio
+1887, ed in allora offertagli dal ministro Coppino, vedi il Chiarini,
+_Memorie della vita di G. C._, pp. 170-4. Questa lettera ci rivela che
+nel 1898 il ministro (Guido Baccelli) ripetè l'offerta inutilmente, e
+conferma ciò che a dì 8 ottobre 1887 il Poeta avea scritto al Chiarini:
+«Sono stanco, stanco, stanco di fare il professore........».
+
+[17] È interamente di mano del Poeta.
+
+[18] L'illustre scultore, prof. Francesco Ierace, autore del monumento
+a Pier Scipione Pasolini Zanelli nel cimitero di Faenza, avea chiesto
+al Poeta, per mezzo della signora contessa Pasolini, un'epigrafe da
+porre sotto il busto di Umberto I, che dovea inaugurarsi a Pizzo di
+Calabria.
+
+[19] Cfr. _Confessioni e Battaglie_ (serie seconda), Bologna,
+Zanichelli, 1902, pp. 127 e sgg., 141 e sgg.
+
+[20] Vedi l'epigrafe per Pier Scipione Pasolini Zanelli, in _Prose_, p.
+1475 (Bologna, Zanichelli, 1902).
+
+[21] Interamente autografa, e scritta a _lapis_, tranne l'indirizzo
+sulla busta, ad inchiostro e di altra mano.
+
+[22] Di mano del dott. Alberto Bacchi della Lega, segretario
+particolare ed amico affettuosamente fedele del Poeta. Le parole in
+fine della lettera «_suo di cuore_» e la firma sono autografe.
+
+[23] Invece di «_piaccia_» aveva prima dettato la parola «_torna_», poi
+cancellata.
+
+[24] D'altra mano da quella del Poeta, e forse del figlio
+dell'albergatore. Le parole in fine della lettera «_La saluto di mia
+mano_» e la firma sono autografe.
+
+[25] È la signora contessa Marina Baroni Semitecolo, madre della
+contessa Silvia.
+
+[26] D'altra mano da quella del Carducci, e forse del figlio
+dell'albergatore, tranne la firma, che è autografa.
+
+[27] L'amanuense aveva scritto: «_in un affabile sorriso_»; e il Poeta
+corresse di sua mano: «_un ineffabile sorriso_».
+
+[28] La consorte del Poeta.
+
+[29] Invece di «_soave_» avea prima dettato «_benigno_», poi cancellato.
+
+[30] Di mano del prof. Flaminio Pellegrini, tranne la firma, che è
+autografa. Vedi _Appendice_, p. 178.
+
+[31] _Eneide_, I, 603-606.
+
+[32] Allude ad una lettera da Lui scritta al dott. Giuseppe Geròla,
+che gli avea inviata in omaggio una sua opera sugli scavi nell'isola di
+Creta, dallo stesso Geròla sapientemente diretti.
+
+[33] È la consorte del Poeta.
+
+[34] Di mano del cav. Giulio Gnaccarini, genero del Poeta, tranne la
+firma, che è autografa.
+
+[35] Egregio medico curante del Carducci.
+
+[36] Orazio, Carmina, libro IV, ode quinta, 6-8.
+
+[37] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[38] Il Gandino, illustre professore di lettere latine nella r.
+Università di Bologna, morì il 15 novembre 1905. Narra il Chiarini
+(_Memorie della vita di G. C._) che il Carducci, arrivando a Bologna
+la sera del 10 novembre 1860, «trovò ad aspettarlo all'ufficio della
+diligenza Emilio Teza che, nominato professore anche lui in quella
+Università dal Mamiani, lo avea preceduto di qualche giorno». E col
+Teza ebbe il Poeta in Bologna stretta consuetudine, prima di farsi
+amico d'altri. Ciò non contraddice punto a quanto il Carducci qui
+afferma, intendendosi bene che quella del Teza era amicizia anteriore
+all'andata del Poeta a Bologna; dove (dice il Chiarini, p. 179) «fece
+presto la conoscenza di G. B. Gandino, di Pietro Ellero e di Enrico
+Panzacchi».
+
+[39] _Poesie_ (Bologna, Zanichelli) p. 898.
+
+[40] Invece di «_chiama_» aveva prima dettato la parola «_canta_», poi
+cancellata.
+
+[41] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[42] Allude al suo ottimo segretario, spesso partecipe delle letture e
+degli studî del Poeta.
+
+[43] «Lamartine non gli andò mai giù» — scrisse, a proposito delle
+letture che il Carducci faceva nella sua prima gioventù, Enrico
+Nencioni nella lettera a Ferdinando Martini, intitolata _Consule
+Planco_, e pubblicata nella _Domenica Letteraria_ del 30 aprile 1882.
+Sembra, però, che il Carducci si ricredesse, se qui dà del Lamartine un
+così lusinghiero giudizio.
+
+[44] È la signorina Cathie Hold, di Monaco di Baviera.
+
+[45] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[46] È il fotografo Augusto Casalboni, autore d'una serie di
+riuscitissime, e ormai ben note, fotografie del Poeta.
+
+[47] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[48] Si riferisce alla ingiusta accusa fatta da certi giornali alla
+signora contessa Silvia Baroni Pasolini: che, cioè, ella tentasse di
+convertire il Poeta alla fede cattolica.
+
+[49] Vocabolo scherzoso del dialetto veneto, in senso di _collera,
+sdegno_ e simili.
+
+[50] Monti, _Sonetto satirico_ (Padre Quirino....), verso 14.º
+
+[51] Vedi, a questo proposito, la lettera precedente.
+
+[52] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[53] Vedi, a questo proposito, le due lettere precedenti.
+
+[54] _Tedio invernale_, in _Poesie_ (Bologna, Zanichelli) p. 599.
+
+[55] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[56] «..... in quell'anno (1857) io andavo pensando o andavo dicendo
+di pensare un inno a Gesù con a motto un verso e mezzo di Dante, _Io
+non so chi tu sia_ etc....» (_Le risorse di s. Miniato_, in _Prose_,
+Zanichelli, Bologna, 1905, pp. 947-948)
+
+[57] _Poesie_ (Bologna, Zanichelli) p. 817.
+
+[58] _Poesie_ (Bologna, Zanichelli), p. 804.
+
+[59] _Per Giuseppe Monti e Gaetano Tognetti_, in _Poesie_ (Bologna,
+Zanichelli) p. 415.
+
+[60] Di mano del dott. Alberto Bacchi della Lega, tranne la firma, che
+è autografa.
+
+[61] È la signorina Francesca Alexander di Boston, italiana di
+sentimento, artista e scrittrice ammirabile, che dimora a Firenze.
+
+[62] Morì nella notte tra il 23 e il 24 decembre del 1905, nella villa
+Sbertoli, casa di salute a Collegigliato presso Pistoia, ove trovavasi
+in cura da circa due anni.
+
+[63] Di mano del dott. Alberto Bacchi della Lega, tranne in fine la
+parola «_Vostro_» e la firma, che sono autografe.
+
+[64] Cfr. _Tristium_, lib. IV, X, 26.
+
+[65] È il prof, don Filippo Lanzoni, ricordato nella «Prefazione».
+
+[66] È forse Giuseppe Minardi, distinto letterato, padre dei viventi
+ing. Tommaso ed Alessandro.
+
+[67] È la compagnia degli «_amici pedanti_», composta del Carducci, del
+Chiarini, del Gargani e di Ottaviano Targioni.
+
+[68] Pazienza Pasolini dall'Onda.
+
+[69] Benvenuto Pasolini dall'Onda.
+
+[70] Antonio Gessi.
+
+[71] Francesco Zauli-Naldi.
+
+[72] È il cav. prof. Giovanni Ghinassi, di cui si è parlato nella
+Prefazione.
+
+[73] Sono Achille Farina, maestro di disegno, e l'avv. Ludovico, suo
+figlio, ora a Londra.
+
+[74] Vi stette, invece, soltanto dal 1856 al '58.
+
+
+
+
+
+Nota del Trascrittore
+
+Ortografia e punteggiatura originali sono state mantenute, correggendo
+senza annotazione minimi errori tipografici. Le correzioni indicate a
+pag. 181 (Errata-Corrige) sono state riportate nel testo.
+
+
+
+
+
+End of Project Gutenberg's Da un carteggio inedito, by Giosuè Carducci
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DA UN CARTEGGIO INEDITO ***
+
+***** This file should be named 62339-0.txt or 62339-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/3/3/62339/
+
+Produced by Carlo Traverso, Barbara Magni and the
+Distributed Proofreading team at DP-test Italia,
+http://dp-test.dm.unipi.it (This file was produced from
+images generously made available by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org/license
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
